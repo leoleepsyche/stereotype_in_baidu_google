@@ -1,1 +1,1 @@
-# stereotype_in_baidu_google
+# bias_in_search_engines
