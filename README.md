@@ -22,5 +22,3 @@ The second part of the analysis takes a deeper dive into the sentiment aspect of
 This comprehensive analysis aims to shed light on how sentiments are portrayed in autocomplete suggestions and whether there are noticeable differences in the approaches of Baidu and Google.
 
 ---
-
-The repository includes code, data, and detailed documentation of the methodologies and findings. This analysis is crucial for understanding the nuances of search engine behavior and their potential impact on user perception and decision-making.
