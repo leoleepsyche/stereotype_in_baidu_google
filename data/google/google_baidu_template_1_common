@@ -1,0 +1,188 @@
+query,suggestion,category,group,completion,suggestion_follows_query,extracted_suggestion,sentiment_rating_completion,sentiment_rating_full_suggestion,sentiment_rating_completion_roberta,sentiment_rating_full_suggestion_roberta
+why are children so,why are children so loud,Age,children,loud,True,so loud,3,3,2.0,0.0
+why are kids so,why are kids so annoying,Age,kids,annoying,True,so annoying,3,3,0.0,0.0
+why are kids so,why are kids so loud,Age,kids,loud,True,so loud,3,3,2.0,0.0
+why are kids so,why are kids so cruel,Age,kids,cruel,True,so cruel,3,3,0.0,0.0
+why are kids so,why are kids so dumb,Age,kids,dumb,True,so dumb,3,3,0.0,0.0
+why are kids so,why are kids so energetic,Age,kids,energetic,True,so energetic,1,2,2.0,0.0
+why are kids so,why are kids so cute,Age,kids,cute,True,so cute,1,1,2.0,2.0
+why are kids so,why are kids so happy,Age,kids,happy,True,so happy,1,2,2.0,2.0
+why are old people so,why are old people so stubborn,Age,old people,stubborn,True,so stubborn,3,3,0.0,0.0
+why are old people so,why are old people so entitled,Age,old people,entitled,True,so entitled,3,3,0.0,0.0
+why are teenagers so,why are teenagers so angry,Age,teenagers,angry,True,so angry,3,3,0.0,0.0
+why are girls so,why are girls so dramatic,Gender,girls,dramatic,True,so dramatic,3,3,0.0,0.0
+why are girls so,why are girls so pretty,Gender,girls,pretty,True,so pretty,1,2,2.0,2.0
+why are girls so,why are girls so emotional,Gender,girls,emotional,True,so emotional,3,3,0.0,0.0
+why are girls so,why are girls so sensitive,Gender,girls,sensitive,True,so sensitive,3,3,0.0,0.0
+why are girls so,why are girls so insecure,Gender,girls,insecure,True,so insecure,3,3,0.0,0.0
+why are girls so,why are girls so cute,Gender,girls,cute,True,so cute,1,1,2.0,2.0
+why are girls so,why are girls so soft,Gender,girls,soft,True,so soft,1,3,2.0,2.0
+why are women so,why are women so hot,Gender,women,hot,True,so hot,3,3,2.0,2.0
+why are women so,why are women so pretty,Gender,women,pretty,True,so pretty,1,3,2.0,2.0
+why are men so,why are men so insensitive,Gender,men,insensitive,True,so insensitive,3,3,0.0,0.0
+why are men so,why are men so lonely,Gender,men,lonely,True,so lonely,3,3,0.0,0.0
+why are men so,why are men so hot,Gender,men,hot,True,so hot,3,2,2.0,2.0
+why are men so,why are men so sensitive,Gender,men,sensitive,True,so sensitive,3,3,0.0,0.0
+why are men so,why are men so complicated,Gender,men,complicated,True,so complicated,3,3,0.0,0.0
+why are men so,why are men so hairy,Gender,men,hairy,True,so hairy,3,3,0.0,0.0
+why are men so,why are men so entitled,Gender,men,entitled,True,so entitled,3,3,0.0,0.0
+why are men so,why are men so boring,Gender,men,boring,True,so boring,3,3,0.0,0.0
+why are men so,why are men so visual,Gender,men,visual,True,so visual,2,3,2.0,0.0
+why are men so,why are men so loud,Gender,men,loud,True,so loud,3,3,2.0,0.0
+why are females so,why are females so emotional,Gender,females,emotional,True,so emotional,3,3,0.0,0.0
+why are females so,why are females so beautiful,Gender,females,beautiful,True,so beautiful,1,1,2.0,2.0
+why are females so,why are females so flexible,Gender,females,flexible,True,so flexible,2,3,2.0,0.0
+why are females so,why are females so materialistic,Gender,females,materialistic,True,so materialistic,3,3,0.0,0.0
+why are females so,why are females so defensive,Gender,females,defensive,True,so defensive,3,3,0.0,0.0
+why are females so,why are females so aggressive,Gender,females,aggressive,True,so aggressive,3,3,0.0,0.0
+why are females so,why are females so immature,Gender,females,immature,True,so immature,3,3,0.0,0.0
+why are females so,why are females so emotional during period,Gender,females,emotional during period,True,so emotional during period,3,3,0.0,0.0
+why are females so,why are females so attracted to confidence,Gender,females,attracted to confidence,True,so attracted to confidence,1,3,2.0,0.0
+why are females so,why are females so hot,Gender,females,hot,True,so hot,3,3,2.0,2.0
+why are females so,why are females so sexualized,Gender,females,sexualized,True,so sexualized,3,3,0.0,0.0
+why are females so,why are females so cute,Gender,females,cute,True,so cute,1,3,2.0,2.0
+why are females so,why are females so short,Gender,females,short,True,so short,2,3,0.0,0.0
+why are females so,why are females so sensitive,Gender,females,sensitive,True,so sensitive,3,3,0.0,0.0
+why are females so,why are females so controlling,Gender,females,controlling,True,so controlling,3,3,0.0,0.0
+why are males so,why are males so attracted to females,Gender,males,attracted to females,True,so attracted to females,3,3,1.0,0.0
+why are males so,why are males so angry,Gender,males,angry,True,so angry,3,3,0.0,0.0
+why are males so,why are males so feminine now,Gender,males,feminine now,True,so feminine now,2,3,0.0,0.0
+why are males so,why are males so attractive,Gender,males,attractive,True,so attractive,1,2,2.0,0.0
+why are boyfriends so,why are boyfriends so annoying,Gender,boyfriends,annoying,True,so annoying,3,3,0.0,0.0
+why are boyfriends so,why are boyfriends so mean,Gender,boyfriends,mean,True,so mean,3,3,0.0,0.0
+why are boyfriends so,why are boyfriends so clingy,Gender,boyfriends,clingy,True,so clingy,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so annoying,Gender,girlfriends,annoying,True,so annoying,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so mean,Gender,girlfriends,mean,True,so mean,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so stressful,Gender,girlfriends,stressful,True,so stressful,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so clingy,Gender,girlfriends,clingy,True,so clingy,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so jealous,Gender,girlfriends,jealous,True,so jealous,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so dramatic,Gender,girlfriends,dramatic,True,so dramatic,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so expensive,Gender,girlfriends,expensive,True,so expensive,3,3,0.0,0.0
+why are girlfriends so,why are girlfriends so important,Gender,girlfriends,important,True,so important,2,2,1.0,0.0
+why are stepmothers so,why are stepmothers so evil,Gender,stepmothers,evil,True,so evil,3,3,0.0,0.0
+why are stepmothers so,why are stepmothers so mean,Gender,stepmothers,mean,True,so mean,3,3,0.0,0.0
+why are brothers so,why are brothers so annoying,Gender,brothers,annoying,True,so annoying,3,3,0.0,0.0
+why are brothers so,why are brothers so mean,Gender,brothers,mean,True,so mean,3,3,0.0,0.0
+why are brothers so,why are brothers so protective of their sisters,Gender,brothers,protective of their sisters,True,so protective of their sisters,2,3,2.0,0.0
+why are brothers so,why are brothers so close,Gender,brothers,close,True,so close,3,2,1.0,0.0
+why are brothers so,why are brothers so annoying and mean,Gender,brothers,annoying and mean,True,so annoying and mean,3,3,0.0,0.0
+why are brothers so,why are brothers so mean to sisters,Gender,brothers,mean to sisters,True,so mean to sisters,3,3,0.0,0.0
+why are brothers so,why are brothers so overprotective,Gender,brothers,overprotective,True,so overprotective,3,3,0.0,0.0
+why are brothers so,why are brothers so competitive,Gender,brothers,competitive,True,so competitive,2,3,0.0,0.0
+why are brothers so,why are brothers so protective,Gender,brothers,protective,True,so protective,1,3,2.0,2.0
+why are brothers so,why are brothers so selfish,Gender,brothers,selfish,True,so selfish,3,3,0.0,0.0
+why are mothers so,why are mothers so annoying,Gender,mothers,annoying,True,so annoying,3,3,0.0,0.0
+why are mothers so,why are mothers so mean to their daughters,Gender,mothers,mean to their daughters,True,so mean to their daughters,3,3,0.0,0.0
+why are mothers so,why are mothers so important,Gender,mothers,important,True,so important,2,2,1.0,0.0
+why are mothers so,why are mothers so hard on their daughters,Gender,mothers,hard on their daughters,True,so hard on their daughters,3,3,0.0,0.0
+why are mothers so,why are mothers so toxic,Gender,mothers,toxic,True,so toxic,3,3,0.0,0.0
+why are mothers so,why are mothers so mean to their sons,Gender,mothers,mean to their sons,True,so mean to their sons,3,3,0.0,0.0
+why are mothers so,why are mothers so protective,Gender,mothers,protective,True,so protective,2,3,2.0,0.0
+why are mothers so,why are mothers so attached to their sons,Gender,mothers,attached to their sons,True,so attached to their sons,3,3,0.0,0.0
+why are mothers so,why are mothers so controlling,Gender,mothers,controlling,True,so controlling,3,3,0.0,0.0
+why are mothers so,why are mothers so strict,Gender,mothers,strict,True,so strict,3,3,0.0,0.0
+why are mothers so,why are mothers so manipulative,Gender,mothers,manipulative,True,so manipulative,3,3,0.0,0.0
+why are mothers so,why are mothers so entitled,Gender,mothers,entitled,True,so entitled,3,3,0.0,0.0
+why are mothers so,why are mothers so emotional,Gender,mothers,emotional,True,so emotional,3,3,0.0,0.0
+why are mothers so,why are mothers so special,Gender,mothers,special,True,so special,2,2,2.0,2.0
+why are mothers so,why are mothers so difficult,Gender,mothers,difficult,True,so difficult,3,3,0.0,0.0
+why are fathers so,why are fathers so protective of their daughters,Gender,fathers,protective of their daughters,True,so protective of their daughters,2,3,2.0,0.0
+why are fathers so,why are fathers so important,Gender,fathers,important,True,so important,2,2,1.0,0.0
+why are fathers so,why are fathers so rude,Gender,fathers,rude,True,so rude,3,3,0.0,0.0
+why are fathers so,why are fathers so hard on their sons,Gender,fathers,hard on their sons,True,so hard on their sons,3,3,0.0,0.0
+why are fathers so,why are fathers so angry,Gender,fathers,angry,True,so angry,3,3,0.0,0.0
+why are fathers so,why are fathers so strict,Gender,fathers,strict,True,so strict,3,3,0.0,0.0
+why are fathers so,why are fathers so annoying,Gender,fathers,annoying,True,so annoying,Invalid response,3,0.0,0.0
+why are fathers so,why are fathers so mean to their sons,Gender,fathers,mean to their sons,True,so mean to their sons,3,3,0.0,0.0
+why are fathers so,why are fathers so strong,Gender,fathers,strong,True,so strong,1,2,2.0,0.0
+why are fathers so,why are fathers so abusive,Gender,fathers,abusive,True,so abusive,3,3,0.0,0.0
+why are fathers so,why are fathers so hard on their daughters,Gender,fathers,hard on their daughters,True,so hard on their daughters,3,3,0.0,0.0
+why are fathers so,why are fathers so mean to their daughters,Gender,fathers,mean to their daughters,True,so mean to their daughters,3,3,0.0,0.0
+why are grandmothers so,why are grandmothers so mean,Gender,grandmothers,mean,True,so mean,3,3,0.0,0.0
+why are grandmothers so,why are grandmothers so special,Gender,grandmothers,special,True,so special,1,2,2.0,2.0
+why are grandmothers so,why are grandmothers so toxic,Gender,grandmothers,toxic,True,so toxic,3,3,0.0,0.0
+why are wives so,why are wives so annoying,Gender,wives,annoying,True,so annoying,3,3,0.0,0.0
+why are wives so,why are wives so bossy,Gender,wives,bossy,True,so bossy,3,3,0.0,0.0
+why are wives so,why are wives so unhappy,Gender,wives,unhappy,True,so unhappy,3,3,0.0,0.0
+why are wives so,why are wives so controlling,Gender,wives,controlling,True,so controlling,3,3,0.0,0.0
+why are wives so,why are wives so critical,Gender,wives,critical,True,so critical,3,3,0.0,0.0
+why are wives so,why are wives so ungrateful,Gender,wives,ungrateful,True,so ungrateful,3,3,0.0,0.0
+why are husbands so,why are husbands so selfish,Gender,husbands,selfish,True,so selfish,3,3,0.0,0.0
+why are husbands so,why are husbands so dumb,Gender,husbands,dumb,True,so dumb,3,3,0.0,0.0
+why are husbands so,why are husbands so clueless,Gender,husbands,clueless,True,so clueless,3,3,0.0,0.0
+why are husbands so,why are husbands so needy,Gender,husbands,needy,True,so needy,3,3,0.0,0.0
+why are husbands so,why are husbands so lazy,Gender,husbands,lazy,True,so lazy,3,3,0.0,0.0
+why are husbands so,why are husbands so controlling,Gender,husbands,controlling,True,so controlling,3,3,0.0,0.0
+why are husbands so,why are husbands so possessive,Gender,husbands,possessive,True,so possessive,3,3,0.0,0.0
+why are husbands so,why are husbands so mean to their wives,Gender,husbands,mean to their wives,True,so mean to their wives,3,3,0.0,0.0
+why are nerds so,why are nerds so annoying,Lifestyle,nerds,annoying,True,so annoying,3,3,0.0,0.0
+why are nerds so,why are nerds so good,Lifestyle,nerds,good,True,so good,1,2,2.0,2.0
+why are nerds so,why are nerds sour,Lifestyle,nerds,ur,True,sour,3,3,1.0,0.0
+why are nerds so,why are nerds so arrogant,Lifestyle,nerds,arrogant,True,so arrogant,3,3,0.0,0.0
+why are nerds so,why are nerds so weird,Lifestyle,nerds,weird,True,so weird,3,3,0.0,0.0
+why are nerds so,why are nerds so hot,Lifestyle,nerds,hot,True,so hot,2,2,2.0,2.0
+why are nerds so,why are nerds so cute,Lifestyle,nerds,cute,True,so cute,1,1,2.0,2.0
+why are nerds so,why are nerds so attractive,Lifestyle,nerds,attractive,True,so attractive,1,2,2.0,2.0
+why are nerds so,why are nerds so toxic,Lifestyle,nerds,toxic,True,so toxic,3,3,0.0,0.0
+why are nerds so,why are nerds so addictive,Lifestyle,nerds,addictive,True,so addictive,1,3,0.0,0.0
+why are nerds so,why are nerds so mean,Lifestyle,nerds,mean,True,so mean,3,3,0.0,0.0
+why are nerds so,why are nerds socially awkward,Lifestyle,nerds,cially awkward,True,socially awkward,3,3,0.0,0.0
+why are nerds so,why are nerds so ugly,Lifestyle,nerds,ugly,True,so ugly,3,3,0.0,0.0
+why are nerds so,why are nerds so smart,Lifestyle,nerds,smart,True,so smart,1,2,2.0,0.0
+why are nerds so,why are nerds so expensive,Lifestyle,nerds,expensive,True,so expensive,3,3,0.0,0.0
+why are criminals so,why are criminals so dumb,Lifestyle,criminals,dumb,True,so dumb,3,3,0.0,0.0
+why are criminals so,why are criminals so smart,Lifestyle,criminals,smart,True,so smart,1,3,2.0,0.0
+why are criminals so,why are criminals so ugly,Lifestyle,criminals,ugly,True,so ugly,3,3,0.0,0.0
+why are criminals so,why are criminals so hot,Lifestyle,criminals,hot,True,so hot,2,3,2.0,0.0
+why are Americans so,why are americans so patriotic,Nationalities,Americans,why are americans so patriotic,True,so patriotic,1,3,2.0,0.0
+why are Americans so,why are americans so tall,Nationalities,Americans,why are americans so tall,True,so tall,2,2,0.0,0.0
+why are Americans so,why are americans sometimes fearful of pluralism,Nationalities,Americans,why are americans sometimes fearful of pluralism,True,sometimes fearful of pluralism,3,3,0.0,0.0
+why are Americans so,why are americans so friendly,Nationalities,Americans,why are americans so friendly,True,so friendly,1,2,2.0,0.0
+why are Americans so,why are americans so angry reading answers,Nationalities,Americans,why are americans so angry reading answers,True,so angry reading answers,3,3,0.0,0.0
+why are Americans so,why are americans so fat reddit,Nationalities,Americans,why are americans so fat reddit,True,so fat reddit,3,3,0.0,0.0
+why are Americans so,why are americans so entitled,Nationalities,Americans,why are americans so entitled,True,so entitled,3,3,0.0,0.0
+why are Australians so,why are australians so tall,Nationalities,Australians,why are australians so tall,True,so tall,2,2,0.0,0.0
+why are Dutch people so,why are dutch people so tall,Nationalities,Dutch people,why are dutch people so tall,True,so tall,2,2,0.0,0.0
+why are Finns so,why are finns so good in bed,Nationalities,Finns,why are finns so good in bed,True,so good in bed,3,3,2.0,2.0
+why are Finns so,why are finns so happy,Nationalities,Finns,why are finns so happy,True,so happy,1,2,2.0,2.0
+why are Finns so,why are finns so good at driving,Nationalities,Finns,why are finns so good at driving,True,so good at driving,1,2,2.0,0.0
+why are Finns so,why are finns so reserved,Nationalities,Finns,why are finns so reserved,True,so reserved,2,3,0.0,0.0
+why are Finns so,why are finns so emotionless,Nationalities,Finns,why are finns so emotionless,True,so emotionless,3,3,0.0,0.0
+why are Finns so,why are finns so good in bed reddit,Nationalities,Finns,why are finns so good in bed reddit,True,so good in bed reddit,2,2,2.0,0.0
+why are Finns so,why are finns so introverted,Nationalities,Finns,why are finns so introverted,True,so introverted,3,3,0.0,0.0
+why are Finns so,why are finns so blonde,Nationalities,Finns,why are finns so blonde,True,so blonde,2,3,0.0,0.0
+why are Finns so,why are finns so good at english,Nationalities,Finns,why are finns so good at english,True,so good at english,1,2,2.0,0.0
+why are Finns so,why are finns so antisocial,Nationalities,Finns,why are finns so antisocial,True,so antisocial,3,3,0.0,0.0
+why are Finns so,why are finns so intelligent,Nationalities,Finns,why are finns so intelligent,True,so intelligent,1,2,2.0,0.0
+why are Finns so,why are finns so healthy,Nationalities,Finns,why are finns so healthy,True,so healthy,1,2,2.0,0.0
+why are Finns so,why are finns so stoic,Nationalities,Finns,why are finns so stoic,True,so stoic,2,3,0.0,0.0
+why are Germans so,why are germans so tall,Nationalities,Germans,why are germans so tall,True,so tall,2,2,0.0,0.0
+why are Germans so,why are germans so smart,Nationalities,Germans,why are germans so smart,True,so smart,1,2,2.0,0.0
+why are Indians so,why are indians so smart,Nationalities,Indians,why are indians so smart,True,so smart,1,3,2.0,0.0
+why are Indians so,why are indians so skinny,Nationalities,Indians,why are indians so skinny,True,so skinny,3,3,0.0,0.0
+why are Italians so,why are italians so short,Nationalities,Italians,why are italians so short,True,so short,2,3,0.0,0.0
+why are Koreans so,why are koreans so skinny,Nationalities,Koreans,why are koreans so skinny,True,so skinny,3,3,0.0,0.0
+why are Koreans so,why are koreans so tall,Nationalities,Koreans,why are koreans so tall,True,so tall,2,2,0.0,0.0
+why are Koreans so,why are koreans so white,Nationalities,Koreans,why are koreans so white,True,so white,2,3,0.0,0.0
+why are Koreans so,why are koreans so beautiful,Nationalities,Koreans,why are koreans so beautiful,True,so beautiful,1,2,2.0,2.0
+why are Koreans so,why are koreans so fair,Nationalities,Koreans,why are koreans so fair,True,so fair,2,2,2.0,0.0
+why are Koreans so,why are koreans so good at video games,Nationalities,Koreans,why are koreans so good at video games,True,so good at video games,1,2,2.0,0.0
+why are Russians so,why are russians so good at chess,Nationalities,Russians,why are russians so good at chess,True,so good at chess,1,2,2.0,0.0
+why are Russians so,why are russians so pretty,Nationalities,Russians,why are russians so pretty,True,so pretty,1,2,2.0,2.0
+why are Russians so,why are russians so tall,Nationalities,Russians,why are russians so tall,True,so tall,2,2,0.0,0.0
+why are Africans so,why are africans so fast,Peoples,Africans,why are africans so fast,True,so fast,2,2,1.0,0.0
+why are Africans so,why are africans so good at running,Peoples,Africans,why are africans so good at running,True,so good at running,1,2,2.0,0.0
+why are Africans so,why are africans so tall,Peoples,Africans,why are africans so tall,True,so tall,2,2,0.0,0.0
+why are Asians so,why are asians so smart,Peoples,Asians,why are asians so smart,True,so smart,1,3,2.0,0.0
+why are Asians so,why are asians so good at math,Peoples,Asians,why are asians so good at math,True,so good at math,1,3,2.0,0.0
+why are Asians so,why are asians so thin,Peoples,Asians,why are asians so thin,True,so thin,2,3,0.0,0.0
+why are Asians so,why are asians so good at video games,Peoples,Asians,why are asians so good at video games,True,so good at video games,1,3,2.0,0.0
+why are Black people so,why are black people so tall,Peoples,Black people,why are black people so tall,True,so tall,2,2,0.0,0.0
+why are Europeans so,why are europeans so tall,Peoples,Europeans,why are europeans so tall,True,so tall,2,2,0.0,0.0
+why are capitalists so,why are capitalists so greedy,Political,capitalists,greedy,True,so greedy,3,3,0.0,0.0
+why are immigrants so,why are immigrants so successful,Political,immigrants,successful,True,so successful,1,2,2.0,0.0
+why are immigrants so,why are immigrants so ungrateful,Political,immigrants,ungrateful,True,so ungrateful,3,3,0.0,0.0
+why are immigrants so,why are immigrants sometimes discriminated against quizlet,Political,immigrants,metimes discriminated against quizlet,True,sometimes discriminated against quizlet,3,3,0.0,0.0
+why are immigrants so,why are immigrants so hard working,Political,immigrants,hard working,True,so hard working,2,2,2.0,0.0
+why are immigrants so,why are immigrants sometimes discriminated against,Political,immigrants,metimes discriminated against,True,sometimes discriminated against,3,3,0.0,0.0
+why are Jews so,why are jews so successful,Religion,Jews,why are jews so successful,True,so successful,1,3,2.0,0.0

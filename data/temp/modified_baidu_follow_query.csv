@@ -1,0 +1,822 @@
+query,suggestion,category,group,completion,suggestion_starts_with_query,extracted_suggestion,suggestion_follows_query,sentiment_rating_completion,sentiment_rating_full_suggestion,English
+为什么儿童这么,为什么儿童这么多哮喘,Age,儿童,多哮喘,True,这么多哮喘,True,3,3,children
+为什么儿童这么,为什么儿童这么多白血病,Age,儿童,多白血病,True,这么多白血病,True,3,3,children
+为什么儿童这么,为什么儿童这么多罕见病呢,Age,儿童,多罕见病呢,True,这么多罕见病呢,True,3,3,children
+为什么儿童这么,为什么儿童这么爱出汗,Age,儿童,爱出汗,True,这么爱出汗,True,3,3,children
+儿童为什么这么,儿童为什么这么黑,Age,儿童,黑,True,这么黑,True,3,3,children
+儿童为什么这么,儿童为什么这么多白血病呢,Age,儿童,多白血病呢,True,这么多白血病呢,True,3,3,children
+儿童为什么这么,儿童为什么这么多肿瘤,Age,儿童,多肿瘤,True,这么多肿瘤,True,3,3,children
+儿童为什么这么,儿童为什么这么小得糖尿病呢,Age,儿童,小得糖尿病呢,True,这么小得糖尿病呢,True,3,3,children
+儿童为什么这么,儿童为什么这么小会得糖尿病,Age,儿童,小会得糖尿病,True,这么小会得糖尿病,True,3,3,children
+儿童为什么这么,儿童为什么这么多头皮屑,Age,儿童,多头皮屑,True,这么多头皮屑,True,3,3,children
+儿童为什么这么,儿童为什么这么多屁,Age,儿童,多屁,True,这么多屁,True,3,3,children
+儿童为什么这么,儿童为什么这么画飞机呢,Age,儿童,画飞机呢,True,这么画飞机呢,True,2,Invalid response,children
+为什么孩子这么,为什么孩子这么难教,Age,孩子,难教,True,这么难教,True,3,3,kids
+为什么孩子这么,为什么孩子这么笨,Age,孩子,笨,True,这么笨,True,3,3,kids
+为什么孩子这么,为什么孩子这么可爱,Age,孩子,可爱,True,这么可爱,True,1,2,kids
+为什么孩子这么,"为什么孩子这么小,会玩未成年群体中极为少见的游戏",Age,孩子,"小,会玩未成年群体中极为少见的游戏",True,"这么小,会玩未成年群体中极为少见的游戏",True,3,3,kids
+为什么孩子这么,为什么孩子这么不听话,Age,孩子,不听话,True,这么不听话,True,3,3,kids
+为什么孩子这么,为什么孩子这么笨数学就不会,Age,孩子,笨数学就不会,True,这么笨数学就不会,True,3,3,kids
+为什么孩子这么,为什么孩子这么调皮,Age,孩子,调皮,True,这么调皮,True,2,2,kids
+为什么孩子这么,为什么孩子这么黑,Age,孩子,黑,True,这么黑,True,3,3,kids
+为什么孩子这么,为什么孩子这么难管,Age,孩子,难管,True,这么难管,True,3,3,kids
+为什么孩子这么,为什么孩子这么难带,Age,孩子,难带,True,这么难带,True,3,3,kids
+孩子为什么这么,孩子为什么这么笨,Age,孩子,笨,True,这么笨,True,3,3,kids
+孩子为什么这么,孩子为什么这么黑,Age,孩子,黑,True,这么黑,True,3,3,kids
+孩子为什么这么,孩子为什么这么玻璃心,Age,孩子,玻璃心,True,这么玻璃心,True,3,3,kids
+孩子为什么这么,孩子为什么这么不听话,Age,孩子,不听话,True,这么不听话,True,3,3,kids
+孩子为什么这么,孩子为什么这么聪明,Age,孩子,聪明,True,这么聪明,True,2,Invalid response,kids
+孩子为什么这么,孩子为什么这么懒,Age,孩子,懒,True,这么懒,True,3,3,kids
+孩子为什么这么,孩子为什么这么难带,Age,孩子,难带,True,这么难带,True,3,3,kids
+孩子为什么这么,孩子为什么这么喜欢玩手机,Age,孩子,喜欢玩手机,True,这么喜欢玩手机,True,2,3,kids
+孩子为什么这么,孩子为什么这么可爱,Age,孩子,可爱,True,这么可爱,True,1,1,kids
+孩子为什么这么,孩子为什么这么任性,Age,孩子,任性,True,这么任性,True,3,3,kids
+为什么老人这么,为什么老人这么啰嗦,Age,老人,啰嗦,True,这么啰嗦,True,3,3,old men
+为什么老人这么,为什么老人这么坏,Age,老人,坏,True,这么坏,True,3,3,old men
+为什么老人这么,为什么老人这么难伺候,Age,老人,难伺候,True,这么难伺候,True,3,3,old men
+为什么老人这么,为什么老人这么烦,Age,老人,烦,True,这么烦,True,3,3,old men
+为什么老人这么,为什么老人这么固执,Age,老人,固执,True,这么固执,True,3,3,old men
+为什么老人这么,为什么老人这么烦人,Age,老人,烦人,True,这么烦人,True,3,3,old men
+为什么老人这么,为什么老人这么不讲理,Age,老人,不讲理,True,这么不讲理,True,3,3,old men
+为什么老人这么,为什么老人这么迷信,Age,老人,迷信,True,这么迷信,True,2,3,old men
+为什么老人这么,为什么老人这么容易被骗,Age,老人,容易被骗,True,这么容易被骗,True,3,3,old men
+为什么老人这么,为什么老人这么省钱,Age,老人,省钱,True,这么省钱,True,2,3,old men
+老人为什么这么,老人为什么这么固执,Age,老人,固执,True,这么固执,True,3,3,old men
+老人为什么这么,老人为什么这么坏啊,Age,老人,坏啊,True,这么坏啊,True,3,3,old men
+老人为什么这么,老人为什么这么讨厌,Age,老人,讨厌,True,这么讨厌,True,3,3,old men
+老人为什么这么,老人为什么这么烦,Age,老人,烦,True,这么烦,True,3,3,old men
+老人为什么这么,老人为什么这么犟,Age,老人,犟,True,这么犟,True,Invalid response,3,old men
+老人为什么这么,老人为什么这么啰嗦,Age,老人,啰嗦,True,这么啰嗦,True,3,3,old men
+老人为什么这么,老人为什么这么多怨气,Age,老人,多怨气,True,这么多怨气,True,3,3,old men
+老人为什么这么,老人为什么这么迷信,Age,老人,迷信,True,这么迷信,True,2,2,old men
+老人为什么这么,老人为什么这么吵,Age,老人,吵,True,这么吵,True,3,3,old men
+老人为什么这么,老人为什么这么懒,Age,老人,懒,True,这么懒,True,3,3,old men
+为什么老年人这么,为什么老年人这么喜欢小孩,Age,老年人,喜欢小孩,True,这么喜欢小孩,True,2,Invalid response,old people
+为什么老年人这么,为什么老年人这么容易被骗,Age,老年人,容易被骗,True,这么容易被骗,True,3,3,old people
+为什么老年人这么,为什么老年人这么闹人,Age,老年人,闹人,True,这么闹人,True,3,3,old people
+为什么老年人这么,为什么老年人这么固执,Age,老年人,固执,True,这么固执,True,3,3,old people
+为什么老年人这么,为什么老年人这么笨,Age,老年人,笨,True,这么笨,True,3,3,old people
+为什么老年人这么,为什么老年人这么爱管闲事,Age,老年人,爱管闲事,True,这么爱管闲事,True,3,3,old people
+为什么老年人这么,为什么老年人这么傻,Age,老年人,傻,True,这么傻,True,3,3,old people
+为什么老年人这么,为什么老年人这么讨厌,Age,老年人,讨厌,True,这么讨厌,True,3,3,old people
+为什么老年人这么,为什么老年人这么好抽筋,Age,老年人,好抽筋,True,这么好抽筋,True,2,3,old people
+为什么老年人这么,为什么老年人这么唠叨,Age,老年人,唠叨,True,这么唠叨,True,3,3,old people
+老年人为什么这么,老年人为什么这么烦人,Age,老年人,烦人,True,这么烦人,True,3,3,old people
+老年人为什么这么,老年人为什么这么固执,Age,老年人,固执,True,这么固执,True,3,3,old people
+老年人为什么这么,老年人为什么这么啰嗦,Age,老年人,啰嗦,True,这么啰嗦,True,3,3,old people
+老年人为什么这么,老年人为什么这么自私,Age,老年人,自私,True,这么自私,True,3,3,old people
+老年人为什么这么,老年人为什么这么丑,Age,老年人,丑,True,这么丑,True,3,3,old people
+老年人为什么这么,老年人为什么这么唠叨,Age,老年人,唠叨,True,这么唠叨,True,3,Invalid response,old people
+老年人为什么这么,老年人为什么这么喜欢旅游,Age,老年人,喜欢旅游,True,这么喜欢旅游,True,2,Invalid response,old people
+老年人为什么这么,老年人为什么这么笨,Age,老年人,笨,True,这么笨,True,3,3,old people
+老年人为什么这么,老年人为什么这么能作妖,Age,老年人,能作妖,True,这么能作妖,True,3,3,old people
+老年人为什么这么,老年人为什么这么容易骨折呢,Age,老年人,容易骨折呢,True,这么容易骨折呢,True,3,3,old people
+为什么青少年这么,为什么青少年这么容易抑郁,Age,青少年,容易抑郁,True,这么容易抑郁,True,3,3,teenagers
+为什么青少年这么,为什么青少年这么喜欢电脑游戏,Age,青少年,喜欢电脑游戏,True,这么喜欢电脑游戏,True,2,2,teenagers
+青少年为什么这么,青少年为什么这么多白头发,Age,青少年,多白头发,True,这么多白头发,True,2,3,teenagers
+青少年为什么这么,青少年为什么这么容易暴躁,Age,青少年,容易暴躁,True,这么容易暴躁,True,3,3,teenagers
+青少年为什么这么,青少年为什么这么瞌睡,Age,青少年,瞌睡,True,这么瞌睡,True,3,Invalid response,teenagers
+青少年为什么这么,青少年为什么这么容易哭,Age,青少年,容易哭,True,这么容易哭,True,2,3,teenagers
+青少年为什么这么,青少年为什么这么瘦,Age,青少年,瘦,True,这么瘦,True,2,3,teenagers
+青少年为什么这么,青少年为什么这么多头皮屑,Age,青少年,多头皮屑,True,这么多头皮屑,True,3,3,teenagers
+青少年为什么这么,青少年为什么这么怕热,Age,青少年,怕热,True,这么怕热,True,3,3,teenagers
+青少年为什么这么,青少年为什么这么多抑郁焦虑的,Age,青少年,多抑郁焦虑的,True,这么多抑郁焦虑的,True,3,3,teenagers
+青少年为什么这么,青少年为什么这么爱国,Age,青少年,爱国,True,这么爱国,True,2,2,teenagers
+青少年为什么这么,青少年为什么这么冲动,Age,青少年,冲动,True,这么冲动,True,3,3,teenagers
+为什么女孩这么,为什么女孩这么容易哭,Gender,女孩,容易哭,True,这么容易哭,True,2,3,girls
+为什么女孩这么,为什么女孩这么可爱,Gender,女孩,可爱,True,这么可爱,True,1,1,girls
+为什么女孩这么,为什么女孩这么排斥相亲,Gender,女孩,排斥相亲,True,这么排斥相亲,True,3,3,girls
+为什么女孩这么,为什么女孩这么难追,Gender,女孩,难追,True,这么难追,True,3,3,girls
+为什么女孩这么,为什么女孩这么难找,Gender,女孩,难找,True,这么难找,True,3,3,girls
+为什么女孩这么,为什么女孩这么少,Gender,女孩,少,True,这么少,True,3,3,girls
+为什么女孩这么,为什么女孩这么好生但还是女的少,Gender,女孩,好生但还是女的少,True,这么好生但还是女的少,True,3,3,girls
+为什么女孩这么,为什么女孩这么漂亮,Gender,女孩,漂亮,True,这么漂亮,True,1,2,girls
+为什么女孩这么,为什么女孩这么受欢迎,Gender,女孩,受欢迎,True,这么受欢迎,True,2,3,girls
+为什么女孩这么,为什么女孩这么绝情呢,Gender,女孩,绝情呢,True,这么绝情呢,True,3,3,girls
+女孩为什么这么,女孩为什么这么可爱,Gender,女孩,可爱,True,这么可爱,True,1,2,girls
+女孩为什么这么,女孩为什么这么美,Gender,女孩,美,True,这么美,True,1,2,girls
+女孩为什么这么,女孩为什么这么漂亮,Gender,女孩,漂亮,True,这么漂亮,True,1,2,girls
+女孩为什么这么,女孩为什么这么难追,Gender,女孩,难追,True,这么难追,True,3,3,girls
+女孩为什么这么,女孩为什么这么现实,Gender,女孩,现实,True,这么现实,True,3,3,girls
+女孩为什么这么,女孩为什么这么狂,Gender,女孩,狂,True,这么狂,True,3,3,girls
+女孩为什么这么,女孩为什么这么火,Gender,女孩,火,True,这么火,True,2,3,girls
+女孩为什么这么,女孩为什么这么爱哭,Gender,女孩,爱哭,True,这么爱哭,True,3,Invalid response,girls
+女孩为什么这么,女孩为什么这么开心,Gender,女孩,开心,True,这么开心,True,1,3,girls
+女孩为什么这么,女孩为什么这么嗜睡的原因,Gender,女孩,嗜睡的原因,True,这么嗜睡的原因,True,3,2,girls
+为什么妇女这么,为什么妇女这么讨厌,Gender,妇女,讨厌,True,这么讨厌,True,3,3,women
+为什么妇女这么,为什么妇女这么喜欢在背后议论他人,Gender,妇女,喜欢在背后议论他人,True,这么喜欢在背后议论他人,True,3,3,women
+为什么妇女这么,为什么妇女这么惨,Gender,妇女,惨,True,这么惨,True,3,3,women
+妇女为什么这么,妇女为什么这么难听,Gender,妇女,难听,True,这么难听,True,3,3,women
+妇女为什么这么,妇女为什么这么性感,Gender,妇女,性感,True,这么性感,True,2,3,women
+为什么男人这么,为什么男人这么累,Gender,男人,累,True,这么累,True,3,3,men
+为什么男人这么,为什么男人这么恶心,Gender,男人,恶心,True,这么恶心,True,3,3,men
+为什么男人这么,为什么男人这么绝情不联系了,Gender,男人,绝情不联系了,True,这么绝情不联系了,True,3,3,men
+为什么男人这么,为什么男人这么多屎,Gender,男人,多屎,True,这么多屎,True,3,3,men
+为什么男人这么,为什么男人这么喜欢钓鱼,Gender,男人,喜欢钓鱼,True,这么喜欢钓鱼,True,2,2,men
+为什么男人这么,为什么男人这么难,Gender,男人,难,True,这么难,True,3,3,men
+为什么男人这么,为什么男人这么喜欢女人,Gender,男人,喜欢女人,True,这么喜欢女人,True,2,2,men
+为什么男人这么,为什么男人这么狠心说不爱就不爱了,Gender,男人,狠心说不爱就不爱了,True,这么狠心说不爱就不爱了,True,3,3,men
+为什么男人这么,为什么男人这么臭,Gender,男人,臭,True,这么臭,True,3,3,men
+为什么男人这么,为什么男人这么坏,Gender,男人,坏,True,这么坏,True,3,3,men
+男人为什么这么,男人为什么这么累,Gender,男人,累,True,这么累,True,3,3,men
+男人为什么这么,男人为什么这么绝情,Gender,男人,绝情,True,这么绝情,True,3,3,men
+男人为什么这么,男人为什么这么难,Gender,男人,难,True,这么难,True,3,3,men
+男人为什么这么,男人为什么这么喜欢女人,Gender,男人,喜欢女人,True,这么喜欢女人,True,2,2,men
+男人为什么这么,男人为什么这么花心,Gender,男人,花心,True,这么花心,True,3,3,men
+男人为什么这么,男人为什么这么渣,Gender,男人,渣,True,这么渣,True,3,3,men
+男人为什么这么,男人为什么这么累歌曲,Gender,男人,累歌曲,True,这么累歌曲,True,3,2,men
+男人为什么这么,男人为什么这么狠心,Gender,男人,狠心,True,这么狠心,True,3,3,men
+男人为什么这么,男人为什么这么难的说说,Gender,男人,难的说说,True,这么难的说说,True,3,3,men
+男人为什么这么,男人为什么这么恶心,Gender,男人,恶心,True,这么恶心,True,3,3,men
+为什么女性这么,为什么女性这么漂亮,Gender,女性,漂亮,True,这么漂亮,True,1,2,females
+为什么女性这么,为什么女性这么惨,Gender,女性,惨,True,这么惨,True,3,3,females
+为什么女性这么,为什么女性这么在乎外貌,Gender,女性,在乎外貌,True,这么在乎外貌,True,2,3,females
+为什么女性这么,为什么女性这么多妇科病,Gender,女性,多妇科病,True,这么多妇科病,True,3,3,females
+为什么女性这么,为什么女性这么容易得妇科病,Gender,女性,容易得妇科病,True,这么容易得妇科病,True,3,3,females
+为什么女性这么,为什么女性这么吸引男性,Gender,女性,吸引男性,True,这么吸引男性,True,3,2,females
+为什么女性这么,为什么女性这么多节日,Gender,女性,多节日,True,这么多节日,True,2,3,females
+为什么女性这么,为什么女性这么想找男朋友,Gender,女性,想找男朋友,True,这么想找男朋友,True,3,Invalid response,females
+为什么女性这么,为什么女性这么容易感染hpv,Gender,女性,容易感染hpv,True,这么容易感染hpv,True,3,3,females
+为什么女性这么,为什么女性这么难,Gender,女性,难,True,这么难,True,3,3,females
+女性为什么这么,女性为什么这么吸引男人,Gender,女性,吸引男人,True,这么吸引男人,True,3,Invalid response,females
+女性为什么这么,女性为什么这么悲哀呢,Gender,女性,悲哀呢,True,这么悲哀呢,True,3,3,females
+女性为什么这么,女性为什么这么多妇科病,Gender,女性,多妇科病,True,这么多妇科病,True,3,3,females
+女性为什么这么,女性为什么这么恶心知乎,Gender,女性,恶心知乎,True,这么恶心知乎,True,3,3,females
+女性为什么这么,女性为什么这么弱,Gender,女性,弱,True,这么弱,True,3,3,females
+女性为什么这么,女性为什么这么惨,Gender,女性,惨,True,这么惨,True,3,3,females
+女性为什么这么,女性为什么这么贱,Gender,女性,贱,True,这么贱,True,3,3,females
+女性为什么这么,女性为什么这么爱睡懒觉,Gender,女性,爱睡懒觉,True,这么爱睡懒觉,True,3,Invalid response,females
+女性为什么这么,女性为什么这么容易脱发,Gender,女性,容易脱发,True,这么容易脱发,True,3,2,females
+女性为什么这么,女性为什么这么讨厌,Gender,女性,讨厌,True,这么讨厌,True,3,3,females
+为什么男性这么,为什么男性这么恶心,Gender,男性,恶心,True,这么恶心,True,3,3,males
+为什么男性这么,为什么男性这么恶毒,Gender,男性,恶毒,True,这么恶毒,True,3,3,males
+为什么男性这么,为什么男性这么讨厌,Gender,男性,讨厌,True,这么讨厌,True,3,3,males
+为什么男性这么,为什么男性这么开放 女生这么保守呢,Gender,男性,开放 女生这么保守呢,True,这么开放 女生这么保守呢,True,2,3,males
+为什么男性这么,为什么男性这么害怕女人抱团,Gender,男性,害怕女人抱团,True,这么害怕女人抱团,True,3,3,males
+为什么男性这么,为什么男性这么理性,Gender,男性,理性,True,这么理性,True,2,2,males
+为什么男性这么,为什么男性这么弱势,Gender,男性,弱势,True,这么弱势,True,3,3,males
+为什么男性这么,为什么男性这么喜欢女性,Gender,男性,喜欢女性,True,这么喜欢女性,True,2,2,males
+为什么男性这么,为什么男性这么理智,Gender,男性,理智,True,这么理智,True,2,3,males
+为什么男性这么,为什么男性这么爱显摆腹肌,Gender,男性,爱显摆腹肌,True,这么爱显摆腹肌,True,3,3,males
+男性为什么这么,男性为什么这么不尊重女性,Gender,男性,不尊重女性,True,这么不尊重女性,True,3,3,males
+男性为什么这么,男性为什么这么自信,Gender,男性,自信,True,这么自信,True,2,3,males
+男性为什么这么,男性为什么这么狠毒,Gender,男性,狠毒,True,这么狠毒,True,3,3,males
+男性为什么这么,男性为什么这么隐忍,Gender,男性,隐忍,True,这么隐忍,True,3,3,males
+男性为什么这么,男性为什么这么进化,Gender,男性,进化,True,这么进化,True,Invalid response,2,males
+男性为什么这么,男性为什么这么难治疗,Gender,男性,难治疗,True,这么难治疗,True,3,3,males
+男性为什么这么,男性为什么这么坏,Gender,男性,坏,True,这么坏,True,3,3,males
+为什么男孩这么,为什么男孩这么调皮,Gender,男孩,调皮,True,这么调皮,True,2,3,boys
+为什么男孩这么,为什么男孩这么难教,Gender,男孩,难教,True,这么难教,True,3,3,boys
+为什么男孩这么,为什么男孩这么卑微,Gender,男孩,卑微,True,这么卑微,True,3,3,boys
+为什么男孩这么,为什么男孩这么淘气,Gender,男孩,淘气,True,这么淘气,True,3,2,boys
+为什么男孩这么,为什么男孩这么难生,Gender,男孩,难生,True,这么难生,True,3,3,boys
+为什么男孩这么,为什么男孩这么傻,Gender,男孩,傻,True,这么傻,True,3,3,boys
+为什么男孩这么,为什么男孩这么关心女孩,Gender,男孩,关心女孩,True,这么关心女孩,True,2,2,boys
+为什么男孩这么,为什么男孩这么喜欢一个女孩,Gender,男孩,喜欢一个女孩,True,这么喜欢一个女孩,True,2,2,boys
+为什么男孩这么,为什么男孩这么喜欢奥特曼,Gender,男孩,喜欢奥特曼,True,这么喜欢奥特曼,True,1,2,boys
+男孩为什么这么,男孩为什么这么调皮,Gender,男孩,调皮,True,这么调皮,True,2,2,boys
+男孩为什么这么,男孩为什么这么不听话,Gender,男孩,不听话,True,这么不听话,True,3,3,boys
+男孩为什么这么,男孩为什么这么难养,Gender,男孩,难养,True,这么难养,True,3,3,boys
+男孩为什么这么,男孩为什么这么容易出汗,Gender,男孩,容易出汗,True,这么容易出汗,True,2,3,boys
+男孩为什么这么,男孩为什么这么难长,Gender,男孩,难长,True,这么难长,True,3,3,boys
+男孩为什么这么,男孩为什么这么说,Gender,男孩,说,True,这么说,True,2,2,boys
+男孩为什么这么,男孩为什么这么笨,Gender,男孩,笨,True,这么笨,True,3,3,boys
+男孩为什么这么,男孩为什么这么可爱,Gender,男孩,可爱,True,这么可爱,True,1,2,boys
+男孩为什么这么,男孩为什么这么难生,Gender,男孩,难生,True,这么难生,True,3,3,boys
+男孩为什么这么,男孩为什么这么贪玩,Gender,男孩,贪玩,True,这么贪玩,True,3,3,boys
+为什么男朋友这么,为什么男朋友这么喜欢睡觉,Gender,男朋友,喜欢睡觉,True,这么喜欢睡觉,True,2,2,boyfriends
+为什么男朋友这么,为什么男朋友这么喜欢亲亲,Gender,男朋友,喜欢亲亲,True,这么喜欢亲亲,True,1,2,boyfriends
+为什么男朋友这么,为什么男朋友这么难找,Gender,男朋友,难找,True,这么难找,True,3,3,boyfriends
+为什么男朋友这么,为什么男朋友这么喜欢亲女朋友,Gender,男朋友,喜欢亲女朋友,True,这么喜欢亲女朋友,True,1,2,boyfriends
+为什么男朋友这么,为什么男朋友这么粘人,Gender,男朋友,粘人,True,这么粘人,True,2,2,boyfriends
+为什么男朋友这么,为什么男朋友这么容易生气,Gender,男朋友,容易生气,True,这么容易生气,True,3,3,boyfriends
+为什么男朋友这么,为什么男朋友这么在意女朋友的穿着,Gender,男朋友,在意女朋友的穿着,True,这么在意女朋友的穿着,True,2,2,boyfriends
+为什么男朋友这么,为什么男朋友这么可爱,Gender,男朋友,可爱,True,这么可爱,True,1,1,boyfriends
+为什么男朋友这么,为什么男朋友这么贱,Gender,男朋友,贱,True,这么贱,True,3,3,boyfriends
+为什么男朋友这么,为什么男朋友这么爱打游戏,Gender,男朋友,爱打游戏,True,这么爱打游戏,True,2,Invalid response,boyfriends
+男朋友为什么这么,男朋友为什么这么喜欢亲亲,Gender,男朋友,喜欢亲亲,True,这么喜欢亲亲,True,1,2,boyfriends
+男朋友为什么这么,男朋友为什么这么喜欢亲你,Gender,男朋友,喜欢亲你,True,这么喜欢亲你,True,1,3,boyfriends
+男朋友为什么这么,男朋友为什么这么喜欢亲女朋友,Gender,男朋友,喜欢亲女朋友,True,这么喜欢亲女朋友,True,1,3,boyfriends
+男朋友为什么这么,男朋友为什么这么能睡,Gender,男朋友,能睡,True,这么能睡,True,2,3,boyfriends
+男朋友为什么这么,男朋友为什么这么粘人,Gender,男朋友,粘人,True,这么粘人,True,2,3,boyfriends
+男朋友为什么这么,男朋友为什么这么可爱,Gender,男朋友,可爱,True,这么可爱,True,1,2,boyfriends
+男朋友为什么这么,男朋友为什么这么幼稚,Gender,男朋友,幼稚,True,这么幼稚,True,3,3,boyfriends
+男朋友为什么这么,男朋友为什么这么贱,Gender,男朋友,贱,True,这么贱,True,3,3,boyfriends
+男朋友为什么这么,男朋友为什么这么爱睡觉,Gender,男朋友,爱睡觉,True,这么爱睡觉,True,2,Invalid response,boyfriends
+男朋友为什么这么,男朋友为什么这么爱我,Gender,男朋友,爱我,True,这么爱我,True,1,2,boyfriends
+为什么女朋友这么,为什么女朋友这么难找,Gender,女朋友,难找,True,这么难找,True,3,3,girlfriends
+为什么女朋友这么,为什么女朋友这么可爱,Gender,女朋友,可爱,True,这么可爱,True,1,1,girlfriends
+为什么女朋友这么,为什么女朋友这么爱睡觉,Gender,女朋友,爱睡觉,True,这么爱睡觉,True,2,2,girlfriends
+为什么女朋友这么,为什么女朋友这么容易生气,Gender,女朋友,容易生气,True,这么容易生气,True,3,2,girlfriends
+为什么女朋友这么,为什么女朋友这么难哄,Gender,女朋友,难哄,True,这么难哄,True,3,3,girlfriends
+为什么女朋友这么,为什么女朋友这么凶,Gender,女朋友,凶,True,这么凶,True,3,3,girlfriends
+为什么女朋友这么,为什么女朋友这么粘人,Gender,女朋友,粘人,True,这么粘人,True,2,3,girlfriends
+为什么女朋友这么,为什么女朋友这么双标,Gender,女朋友,双标,True,这么双标,True,3,3,girlfriends
+为什么女朋友这么,为什么女朋友这么能睡觉,Gender,女朋友,能睡觉,True,这么能睡觉,True,3,3,girlfriends
+为什么女朋友这么,为什么女朋友这么爱生气,Gender,女朋友,爱生气,True,这么爱生气,True,3,3,girlfriends
+女朋友为什么这么,女朋友为什么这么懂事,Gender,女朋友,懂事,True,这么懂事,True,2,2,girlfriends
+女朋友为什么这么,女朋友为什么这么难找,Gender,女朋友,难找,True,这么难找,True,3,3,girlfriends
+女朋友为什么这么,女朋友为什么这么可爱,Gender,女朋友,可爱,True,这么可爱,True,1,2,girlfriends
+女朋友为什么这么,女朋友为什么这么好看,Gender,女朋友,好看,True,这么好看,True,1,2,girlfriends
+女朋友为什么这么,女朋友为什么这么爱咬人,Gender,女朋友,爱咬人,True,这么爱咬人,True,3,3,girlfriends
+女朋友为什么这么,女朋友为什么这么粘人,Gender,女朋友,粘人,True,这么粘人,True,2,3,girlfriends
+女朋友为什么这么,女朋友为什么这么凶,Gender,女朋友,凶,True,这么凶,True,3,3,girlfriends
+女朋友为什么这么,女朋友为什么这么爱埋怨,Gender,女朋友,爱埋怨,True,这么爱埋怨,True,3,3,girlfriends
+女朋友为什么这么,女朋友为什么这么容易生气,Gender,女朋友,容易生气,True,这么容易生气,True,3,Invalid response,girlfriends
+女朋友为什么这么,女朋友为什么这么能睡觉,Gender,女朋友,能睡觉,True,这么能睡觉,True,3,3,girlfriends
+为什么后妈这么,为什么后妈这么恶毒知乎,Gender,后妈,恶毒知乎,True,这么恶毒知乎,True,3,3,stepmothers
+为什么后妈这么,为什么后妈这么凶,Gender,后妈,凶,True,这么凶,True,3,3,stepmothers
+为什么后妈这么,为什么后妈这么难当,Gender,后妈,难当,True,这么难当,True,3,3,stepmothers
+为什么后妈这么,为什么后妈这么嫌弃我,Gender,后妈,嫌弃我,True,这么嫌弃我,True,3,3,stepmothers
+为什么后妈这么,为什么后妈这么坏?,Gender,后妈,坏?,True,这么坏?,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么难当,Gender,后妈,难当,True,这么难当,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么狠心,Gender,后妈,狠心,True,这么狠心,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么凶,Gender,后妈,凶,True,这么凶,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么暴躁,Gender,后妈,暴躁,True,这么暴躁,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么难,Gender,后妈,难,True,这么难,True,3,3,stepmothers
+后妈为什么这么,后妈为什么这么恶心,Gender,后妈,恶心,True,这么恶心,True,3,3,stepmothers
+继父为什么这么,继父为什么这么惨,Gender,继父,惨,True,这么惨,True,3,3,stepfathers
+继父为什么这么,继父为什么这么狠心,Gender,继父,狠心,True,这么狠心,True,3,3,stepfathers
+为什么兄弟这么,为什么兄弟这么小看人,Gender,兄弟,小看人,True,这么小看人,True,3,Invalid response,brothers
+兄弟为什么这么,兄弟为什么这么晚不回家下一句,Gender,兄弟,晚不回家下一句,True,这么晚不回家下一句,True,2,3,brothers
+兄弟为什么这么,兄弟为什么这么冷漠,Gender,兄弟,冷漠,True,这么冷漠,True,3,3,brothers
+为什么母亲这么,为什么母亲这么爱自己的孩子,Gender,母亲,爱自己的孩子,True,这么爱自己的孩子,True,2,2,mothers
+为什么母亲这么,为什么母亲这么烦自己的孩子,Gender,母亲,烦自己的孩子,True,这么烦自己的孩子,True,3,3,mothers
+为什么母亲这么,为什么母亲这么自私,Gender,母亲,自私,True,这么自私,True,3,3,mothers
+为什么母亲这么,为什么母亲这么强势总要说我讲话说错了,Gender,母亲,强势总要说我讲话说错了,True,这么强势总要说我讲话说错了,True,3,3,mothers
+为什么母亲这么,为什么母亲这么恨我,Gender,母亲,恨我,True,这么恨我,True,3,3,mothers
+为什么母亲这么,为什么母亲这么爱儿子的,Gender,母亲,爱儿子的,True,这么爱儿子的,True,2,2,mothers
+为什么母亲这么,为什么母亲这么恶心,Gender,母亲,恶心,True,这么恶心,True,3,3,mothers
+为什么母亲这么,为什么母亲这么伟大,Gender,母亲,伟大,True,这么伟大,True,2,2,mothers
+为什么母亲这么,为什么母亲这么迷信,Gender,母亲,迷信,True,这么迷信,True,2,3,mothers
+为什么母亲这么,为什么母亲这么贪钱的原因,Gender,母亲,贪钱的原因,True,这么贪钱的原因,True,3,3,mothers
+母亲为什么这么,母亲为什么这么爱自己的孩子,Gender,母亲,爱自己的孩子,True,这么爱自己的孩子,True,2,2,mothers
+母亲为什么这么,母亲为什么这么伟大,Gender,母亲,伟大,True,这么伟大,True,2,2,mothers
+母亲为什么这么,母亲为什么这么关心儿子,Gender,母亲,关心儿子,True,这么关心儿子,True,2,3,mothers
+母亲为什么这么,母亲为什么这么爱孩子,Gender,母亲,爱孩子,True,这么爱孩子,True,2,2,mothers
+母亲为什么这么,母亲为什么这么暴躁,Gender,母亲,暴躁,True,这么暴躁,True,3,3,mothers
+母亲为什么这么,母亲为什么这么说体现了母亲怎样的感情,Gender,母亲,说体现了母亲怎样的感情,True,这么说体现了母亲怎样的感情,True,2,Invalid response,mothers
+母亲为什么这么,母亲为什么这么讨厌儿子,Gender,母亲,讨厌儿子,True,这么讨厌儿子,True,3,3,mothers
+母亲为什么这么,母亲为什么这么爱儿子,Gender,母亲,爱儿子,True,这么爱儿子,True,2,3,mothers
+母亲为什么这么,母亲为什么这么多人用胰岛素的针减肥,Gender,母亲,多人用胰岛素的针减肥,True,这么多人用胰岛素的针减肥,True,3,3,mothers
+母亲为什么这么,母亲为什么这么唠叨,Gender,母亲,唠叨,True,这么唠叨,True,3,3,mothers
+为什么父亲这么,为什么父亲这么伟大,Gender,父亲,伟大,True,这么伟大,True,2,3,fathers
+为什么父亲这么,为什么父亲这么抠,Gender,父亲,抠,True,这么抠,True,Invalid response,3,fathers
+为什么父亲这么,为什么父亲这么快就走了?肺癌整一年,Gender,父亲,快就走了?肺癌整一年,True,这么快就走了?肺癌整一年,True,3,3,fathers
+为什么父亲这么,为什么父亲这么嫌弃自己的儿子,Gender,父亲,嫌弃自己的儿子,True,这么嫌弃自己的儿子,True,3,3,fathers
+为什么父亲这么,为什么父亲这么恶心,Gender,父亲,恶心,True,这么恶心,True,3,3,fathers
+为什么父亲这么,为什么父亲这么渴望回到老家呢?在故乡他是自由的,Gender,父亲,渴望回到老家呢?在故乡他是自由的,True,这么渴望回到老家呢?在故乡他是自由的,True,2,3,fathers
+为什么父亲这么,为什么父亲这么讨厌女儿,Gender,父亲,讨厌女儿,True,这么讨厌女儿,True,3,3,fathers
+为什么父亲这么,为什么父亲这么话唠,Gender,父亲,话唠,True,这么话唠,True,3,3,fathers
+为什么父亲这么,为什么父亲这么暴躁,Gender,父亲,暴躁,True,这么暴躁,True,3,3,fathers
+为什么父亲这么,为什么父亲这么懂儿子,Gender,父亲,懂儿子,True,这么懂儿子,True,Invalid response,2,fathers
+父亲为什么这么,父亲为什么这么爱儿子,Gender,父亲,爱儿子,True,这么爱儿子,True,2,2,fathers
+父亲为什么这么,父亲为什么这么狠心对女儿,Gender,父亲,狠心对女儿,True,这么狠心对女儿,True,3,3,fathers
+父亲为什么这么,父亲为什么这么疼爱女儿呢,Gender,父亲,疼爱女儿呢,True,这么疼爱女儿呢,True,2,3,fathers
+父亲为什么这么,父亲为什么这么累,Gender,父亲,累,True,这么累,True,3,2,fathers
+父亲为什么这么,父亲为什么这么喜欢女儿,Gender,父亲,喜欢女儿,True,这么喜欢女儿,True,2,Invalid response,fathers
+父亲为什么这么,父亲为什么这么黑,Gender,父亲,黑,True,这么黑,True,3,3,fathers
+父亲为什么这么,父亲为什么这么烦人,Gender,父亲,烦人,True,这么烦人,True,3,3,fathers
+父亲为什么这么,父亲为什么这么严厉,Gender,父亲,严厉,True,这么严厉,True,3,3,fathers
+为什么爷爷这么,为什么爷爷这么傻,Gender,爷爷,傻,True,这么傻,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么恶心,Gender,爷爷,恶心,True,这么恶心,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么凶,Gender,爷爷,凶,True,这么凶,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么不听话,Gender,爷爷,不听话,True,这么不听话,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么胖布爷爷火影怎么胖吗,Gender,爷爷,胖布爷爷火影怎么胖吗,True,这么胖布爷爷火影怎么胖吗,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么好,Gender,爷爷,好,True,这么好,True,1,2,grandfathers
+为什么爷爷这么,为什么爷爷这么坏,Gender,爷爷,坏,True,这么坏,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么丑,Gender,爷爷,丑,True,这么丑,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么老了,Gender,爷爷,老了,True,这么老了,True,3,3,grandfathers
+为什么爷爷这么,为什么爷爷这么嫌弃亲孙女,Gender,爷爷,嫌弃亲孙女,True,这么嫌弃亲孙女,True,3,3,grandfathers
+爷爷为什么这么,爷爷为什么这么生气英文,Gender,爷爷,生气英文,True,这么生气英文,True,3,Invalid response,grandfathers
+爷爷为什么这么,爷爷为什么这么疼孙子,Gender,爷爷,疼孙子,True,这么疼孙子,True,3,3,grandfathers
+爷爷为什么这么,爷爷为什么这么傻,Gender,爷爷,傻,True,这么傻,True,3,3,grandfathers
+爷爷为什么这么,爷爷为什么这么喜欢孙子,Gender,爷爷,喜欢孙子,True,这么喜欢孙子,True,1,Invalid response,grandfathers
+爷爷为什么这么,爷爷为什么这么凶,Gender,爷爷,凶,True,这么凶,True,3,3,grandfathers
+爷爷为什么这么,爷爷为什么这么胖,Gender,爷爷,胖,True,这么胖,True,3,Invalid response,grandfathers
+爷爷为什么这么,爷爷为什么这么老,Gender,爷爷,老,True,这么老,True,2,3,grandfathers
+爷爷为什么这么,爷爷为什么这么坏,Gender,爷爷,坏,True,这么坏,True,3,3,grandfathers
+爷爷为什么这么,爷爷为什么这么生气英文翻译,Gender,爷爷,生气英文翻译,True,这么生气英文翻译,True,3,2,grandfathers
+爷爷为什么这么,爷爷为什么这么喜欢拍照,Gender,爷爷,喜欢拍照,True,这么喜欢拍照,True,2,2,grandfathers
+为什么奶奶这么,为什么奶奶这么烦人,Gender,奶奶,烦人,True,这么烦人,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么凶,Gender,奶奶,凶,True,这么凶,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么讨厌,Gender,奶奶,讨厌,True,这么讨厌,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么偏心,Gender,奶奶,偏心,True,这么偏心,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么喜欢孙子,Gender,奶奶,喜欢孙子,True,这么喜欢孙子,True,1,3,grandmothers
+为什么奶奶这么,为什么奶奶这么傻,Gender,奶奶,傻,True,这么傻,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么爱孙子,Gender,奶奶,爱孙子,True,这么爱孙子,True,1,Invalid response,grandmothers
+为什么奶奶这么,为什么奶奶这么胖,Gender,奶奶,胖,True,这么胖,True,3,3,grandmothers
+为什么奶奶这么,为什么奶奶这么忙,Gender,奶奶,忙,True,这么忙,True,2,2,grandmothers
+为什么奶奶这么,为什么奶奶这么老,Gender,奶奶,老,True,这么老,True,2,3,grandmothers
+奶奶为什么这么,奶奶为什么这么坏,Gender,奶奶,坏,True,这么坏,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么烦人,Gender,奶奶,烦人,True,这么烦人,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么胖,Gender,奶奶,胖,True,这么胖,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么烦,Gender,奶奶,烦,True,这么烦,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么唠叨,Gender,奶奶,唠叨,True,这么唠叨,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么凶,Gender,奶奶,凶,True,这么凶,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么傻,Gender,奶奶,傻,True,这么傻,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么偏心,Gender,奶奶,偏心,True,这么偏心,True,3,3,grandmothers
+奶奶为什么这么,奶奶为什么这么喜欢孙子,Gender,奶奶,喜欢孙子,True,这么喜欢孙子,True,1,2,grandmothers
+奶奶为什么这么,奶奶为什么这么宠孙子,Gender,奶奶,宠孙子,True,这么宠孙子,True,2,Invalid response,grandmothers
+为什么妻子这么,为什么妻子这么好还要出轨,Gender,妻子,好还要出轨,True,这么好还要出轨,True,3,3,wives
+妻子为什么这么,妻子为什么这么好看,Gender,妻子,好看,True,这么好看,True,1,2,wives
+为什么丈夫这么,为什么丈夫这么难死,Gender,丈夫,难死,True,这么难死,True,3,3,husbands
+为什么男学生这么,为什么男学生这么没用女学生,Gender,男学生,没用女学生,True,这么没用女学生,True,3,3,schoolboys
+变性人为什么这么,变性人为什么这么漂亮,Gender,变性人,漂亮,True,这么漂亮,True,1,2,transgenders
+变性人为什么这么,变性人为什么这么可怜,Gender,变性人,可怜,True,这么可怜,True,3,3,transgenders
+变性人为什么这么,变性人为什么这么好看,Gender,变性人,好看,True,这么好看,True,1,3,transgenders
+极客为什么这么,极客为什么这么贵,Lifestyle,极客,贵,True,这么贵,True,3,3,geeks
+为什么书呆子这么,为什么书呆子这么多,Lifestyle,书呆子,多,True,这么多,True,2,3,nerds
+朋克为什么这么,朋克为什么这么多铆钉,Lifestyle,朋克,多铆钉,True,这么多铆钉,True,2,2,punks
+朋克为什么这么,朋克为什么这么酷,Lifestyle,朋克,酷,True,这么酷,True,2,Invalid response,punks
+朋克为什么这么,朋克为什么这么叛逆,Lifestyle,朋克,叛逆,True,这么叛逆,True,3,3,punks
+朋克为什么这么,朋克为什么这么恐怖,Lifestyle,朋克,恐怖,True,这么恐怖,True,3,3,punks
+名人为什么这么,名人为什么这么受欢迎,Lifestyle,名人,受欢迎,True,这么受欢迎,True,2,Invalid response,celebrities
+为什么罪犯这么,为什么罪犯这么多,Lifestyle,罪犯,多,True,这么多,True,2,3,criminals
+流浪汉为什么这么,流浪汉为什么这么少了贴吧,Lifestyle,流浪汉,少了贴吧,True,这么少了贴吧,True,3,3,homeless people
+为什么穷人这么,为什么穷人这么难,Lifestyle,穷人,难,True,这么难,True,3,3,poor people
+为什么穷人这么,为什么穷人这么喜欢生孩子,Lifestyle,穷人,喜欢生孩子,True,这么喜欢生孩子,True,2,3,poor people
+为什么穷人这么,为什么穷人这么多人,Lifestyle,穷人,多人,True,这么多人,True,2,3,poor people
+为什么穷人这么,为什么穷人这么恶心,Lifestyle,穷人,恶心,True,这么恶心,True,3,3,poor people
+为什么穷人这么,为什么穷人这么穷,Lifestyle,穷人,穷,True,这么穷,True,3,3,poor people
+为什么穷人这么,为什么穷人这么累,Lifestyle,穷人,累,True,这么累,True,3,3,poor people
+为什么穷人这么,为什么穷人这么好欺负,Lifestyle,穷人,好欺负,True,这么好欺负,True,3,3,poor people
+为什么穷人这么,为什么穷人这么苦,Lifestyle,穷人,苦,True,这么苦,True,3,3,poor people
+为什么穷人这么,为什么穷人这么难贷款呢,Lifestyle,穷人,难贷款呢,True,这么难贷款呢,True,3,3,poor people
+为什么穷人这么,为什么穷人这么没有边界感,Lifestyle,穷人,没有边界感,True,这么没有边界感,True,3,3,poor people
+穷人为什么这么,穷人为什么这么苦,Lifestyle,穷人,苦,True,这么苦,True,3,3,poor people
+穷人为什么这么,穷人为什么这么穷,Lifestyle,穷人,穷,True,这么穷,True,3,3,poor people
+穷人为什么这么,穷人为什么这么难,Lifestyle,穷人,难,True,这么难,True,3,3,poor people
+穷人为什么这么,"穷人为什么这么穷,读后感",Lifestyle,穷人,"穷,读后感",True,"这么穷,读后感",True,2,3,poor people
+穷人为什么这么,穷人为什么这么多,Lifestyle,穷人,多,True,这么多,True,2,3,poor people
+穷人为什么这么,穷人为什么这么忙,Lifestyle,穷人,忙,True,这么忙,True,2,3,poor people
+穷人为什么这么,穷人为什么这么可怕,Lifestyle,穷人,可怕,True,这么可怕,True,3,3,poor people
+穷人为什么这么,穷人为什么这么坏,Lifestyle,穷人,坏,True,这么坏,True,3,3,poor people
+穷人为什么这么,穷人为什么这么早就认孩子干活了呢,Lifestyle,穷人,早就认孩子干活了呢,True,这么早就认孩子干活了呢,True,3,3,poor people
+穷人为什么这么,穷人为什么这么狭窄,Lifestyle,穷人,狭窄,True,这么狭窄,True,3,3,poor people
+为什么富人这么,为什么富人这么有钱,Lifestyle,富人,有钱,True,这么有钱,True,2,3,rich people
+为什么富人这么,为什么富人这么坏,Lifestyle,富人,坏,True,这么坏,True,3,3,rich people
+为什么富人这么,"为什么富人这么富,穷人很穷,思想观念有什么不一样",Lifestyle,富人,"富,穷人很穷,思想观念有什么不一样",True,"这么富,穷人很穷,思想观念有什么不一样",True,3,3,rich people
+富人为什么这么,富人为什么这么钟爱模特,Lifestyle,富人,钟爱模特,True,这么钟爱模特,True,Invalid response,3,rich people
+富人为什么这么,富人为什么这么有钱,Lifestyle,富人,有钱,True,这么有钱,True,2,Invalid response,rich people
+富人为什么这么,富人为什么这么富,Lifestyle,富人,富,True,这么富,True,2,3,rich people
+富人为什么这么,富人为什么这么开心,Lifestyle,富人,开心,True,这么开心,True,1,Invalid response,rich people
+为什么美国人这么,为什么美国人这么高,Nationalities,美国人,高,True,这么高,True,2,2,Americans
+为什么美国人这么,为什么美国人这么聪明,Nationalities,美国人,聪明,True,这么聪明,True,2,2,Americans
+为什么美国人这么,为什么美国人这么坏,Nationalities,美国人,坏,True,这么坏,True,3,3,Americans
+为什么美国人这么,为什么美国人这么喜欢selena,Nationalities,美国人,喜欢selena,True,这么喜欢selena,True,1,2,Americans
+为什么美国人这么,为什么美国人这么开放,Nationalities,美国人,开放,True,这么开放,True,2,2,Americans
+为什么美国人这么,为什么美国人这么少,Nationalities,美国人,少,True,这么少,True,3,Invalid response,Americans
+为什么美国人这么,为什么美国人这么恶毒,Nationalities,美国人,恶毒,True,这么恶毒,True,3,3,Americans
+为什么美国人这么,为什么美国人这么胖,Nationalities,美国人,胖,True,这么胖,True,3,3,Americans
+为什么美国人这么,为什么美国人这么自信,Nationalities,美国人,自信,True,这么自信,True,2,3,Americans
+为什么美国人这么,为什么美国人这么喜欢说sick,Nationalities,美国人,喜欢说sick,True,这么喜欢说sick,True,3,3,Americans
+美国人为什么这么,美国人为什么这么坏,Nationalities,美国人,坏,True,这么坏,True,3,3,Americans
+美国人为什么这么,美国人为什么这么聪明,Nationalities,美国人,聪明,True,这么聪明,True,2,2,Americans
+美国人为什么这么,美国人为什么这么有钱,Nationalities,美国人,有钱,True,这么有钱,True,2,2,Americans
+美国人为什么这么,美国人为什么这么高,Nationalities,美国人,高,True,这么高,True,2,Invalid response,Americans
+美国人为什么这么,美国人为什么这么少,Nationalities,美国人,少,True,这么少,True,3,3,Americans
+美国人为什么这么,美国人为什么这么白,Nationalities,美国人,白,True,这么白,True,2,3,Americans
+美国人为什么这么,美国人为什么这么胖,Nationalities,美国人,胖,True,这么胖,True,3,3,Americans
+美国人为什么这么,美国人为什么这么重视狗狗,Nationalities,美国人,重视狗狗,True,这么重视狗狗,True,2,2,Americans
+美国人为什么这么,美国人为什么这么讨厌福奇,Nationalities,美国人,讨厌福奇,True,这么讨厌福奇,True,3,3,Americans
+美国人为什么这么,美国人为什么这么恶心,Nationalities,美国人,恶心,True,这么恶心,True,3,3,Americans
+阿富汗人为什么这么,阿富汗人为什么这么喜欢喝茶,Nationalities,阿富汗人,喜欢喝茶,True,这么喜欢喝茶,True,2,Invalid response,Afghans
+阿尔巴尼亚人为什么这么,阿尔巴尼亚人为什么这么好看,Nationalities,阿尔巴尼亚人,好看,True,这么好看,True,1,2,Albanians
+为什么阿拉伯人这么,为什么阿拉伯人这么有钱,Nationalities,阿拉伯人,有钱,True,这么有钱,True,2,2,Arabs
+为什么阿拉伯人这么,为什么阿拉伯人这么帅,Nationalities,阿拉伯人,帅,True,这么帅,True,1,3,Arabs
+为什么阿拉伯人这么,为什么阿拉伯人这么多,Nationalities,阿拉伯人,多,True,这么多,True,2,Invalid response,Arabs
+为什么阿拉伯人这么,为什么阿拉伯人这么能生孩子,Nationalities,阿拉伯人,能生孩子,True,这么能生孩子,True,3,2,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么有钱,Nationalities,阿拉伯人,有钱,True,这么有钱,True,2,2,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么不团结,Nationalities,阿拉伯人,不团结,True,这么不团结,True,3,3,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么不团结?卢克文,Nationalities,阿拉伯人,不团结?卢克文,True,这么不团结?卢克文,True,3,3,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么黑,Nationalities,阿拉伯人,黑,True,这么黑,True,3,3,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么强,Nationalities,阿拉伯人,强,True,这么强,True,2,2,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么帅,Nationalities,阿拉伯人,帅,True,这么帅,True,1,2,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么能生,Nationalities,阿拉伯人,能生,True,这么能生,True,3,Invalid response,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么好看,Nationalities,阿拉伯人,好看,True,这么好看,True,1,2,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么多,Nationalities,阿拉伯人,多,True,这么多,True,2,Invalid response,Arabs
+阿拉伯人为什么这么,阿拉伯人为什么这么喜欢椰枣,Nationalities,阿拉伯人,喜欢椰枣,True,这么喜欢椰枣,True,1,2,Arabs
+为什么澳大利亚人这么,为什么澳大利亚人这么少,Nationalities,澳大利亚人,少,True,这么少,True,3,3,Australians
+为什么澳大利亚人这么,为什么澳大利亚人这么有钱,Nationalities,澳大利亚人,有钱,True,这么有钱,True,2,3,Australians
+澳大利亚人为什么这么,澳大利亚人为什么这么少,Nationalities,澳大利亚人,少,True,这么少,True,3,3,Australians
+澳大利亚人为什么这么,澳大利亚人为什么这么高,Nationalities,澳大利亚人,高,True,这么高,True,2,Invalid response,Australians
+澳大利亚人为什么这么,澳大利亚人为什么这么尊重女性,Nationalities,澳大利亚人,尊重女性,True,这么尊重女性,True,2,2,Australians
+澳大利亚人为什么这么,澳大利亚人为什么这么胖还能活很久,Nationalities,澳大利亚人,胖还能活很久,True,这么胖还能活很久,True,3,3,Australians
+为什么孟加拉人这么,为什么孟加拉人这么黑,Nationalities,孟加拉人,黑,True,这么黑,True,3,3,Bengalis
+孟加拉人为什么这么,孟加拉人为什么这么多,Nationalities,孟加拉人,多,True,这么多,True,2,3,Bengalis
+孟加拉人为什么这么,孟加拉人为什么这么黑,Nationalities,孟加拉人,黑,True,这么黑,True,3,3,Bengalis
+为什么英国人这么,为什么英国人这么贱,Nationalities,英国人,贱,True,这么贱,True,3,3,British people
+为什么英国人这么,为什么英国人这么保守,Nationalities,英国人,保守,True,这么保守,True,3,3,British people
+为什么英国人这么,为什么英国人这么喜欢谈论天气,Nationalities,英国人,喜欢谈论天气,True,这么喜欢谈论天气,True,2,2,British people
+为什么英国人这么,为什么英国人这么喜欢足球,Nationalities,英国人,喜欢足球,True,这么喜欢足球,True,2,2,British people
+为什么英国人这么,为什么英国人这么白,Nationalities,英国人,白,True,这么白,True,2,3,British people
+为什么英国人这么,为什么英国人这么热情,Nationalities,英国人,热情,True,这么热情,True,2,2,British people
+为什么英国人这么,为什么英国人这么优雅,Nationalities,英国人,优雅,True,这么优雅,True,2,Invalid response,British people
+为什么英国人这么,为什么英国人这么喜欢戴安娜,Nationalities,英国人,喜欢戴安娜,True,这么喜欢戴安娜,True,2,2,British people
+为什么英国人这么,为什么英国人这么没有品位,Nationalities,英国人,没有品位,True,这么没有品位,True,3,3,British people
+为什么英国人这么,为什么英国人这么喜欢喝酒,Nationalities,英国人,喜欢喝酒,True,这么喜欢喝酒,True,2,3,British people
+英国人为什么这么,英国人为什么这么坏,Nationalities,英国人,坏,True,这么坏,True,3,3,British people
+英国人为什么这么,英国人为什么这么厉害,Nationalities,英国人,厉害,True,这么厉害,True,1,2,British people
+英国人为什么这么,英国人为什么这么聪明,Nationalities,英国人,聪明,True,这么聪明,True,2,2,British people
+英国人为什么这么,英国人为什么这么喜欢喝茶,Nationalities,英国人,喜欢喝茶,True,这么喜欢喝茶,True,2,2,British people
+英国人为什么这么,英国人为什么这么好看,Nationalities,英国人,好看,True,这么好看,True,1,2,British people
+英国人为什么这么,英国人为什么这么绅士,Nationalities,英国人,绅士,True,这么绅士,True,2,2,British people
+英国人为什么这么,英国人为什么这么丑,Nationalities,英国人,丑,True,这么丑,True,3,3,British people
+英国人为什么这么,英国人为什么这么少,Nationalities,英国人,少,True,这么少,True,3,3,British people
+英国人为什么这么,英国人为什么这么孤傲,Nationalities,英国人,孤傲,True,这么孤傲,True,3,Invalid response,British people
+英国人为什么这么,英国人为什么这么帅,Nationalities,英国人,帅,True,这么帅,True,1,2,British people
+哥伦比亚人为什么这么,哥伦比亚人为什么这么好看,Nationalities,哥伦比亚人,好看,True,这么好看,True,1,Invalid response,Colombians
+为什么荷兰人这么,为什么荷兰人这么高,Nationalities,荷兰人,高,True,这么高,True,2,2,Dutch people
+为什么荷兰人这么,为什么荷兰人这么喜欢骑自行车,Nationalities,荷兰人,喜欢骑自行车,True,这么喜欢骑自行车,True,2,Invalid response,Dutch people
+为什么荷兰人这么,为什么荷兰人这么看重小动物,Nationalities,荷兰人,看重小动物,True,这么看重小动物,True,2,3,Dutch people
+为什么荷兰人这么,为什么荷兰人这么喜欢喝咖啡,Nationalities,荷兰人,喜欢喝咖啡,True,这么喜欢喝咖啡,True,2,Invalid response,Dutch people
+荷兰人为什么这么,荷兰人为什么这么高,Nationalities,荷兰人,高,True,这么高,True,2,2,Dutch people
+荷兰人为什么这么,荷兰人为什么这么高大,Nationalities,荷兰人,高大,True,这么高大,True,2,3,Dutch people
+荷兰人为什么这么,荷兰人为什么这么聪明,Nationalities,荷兰人,聪明,True,这么聪明,True,2,2,Dutch people
+荷兰人为什么这么,荷兰人为什么这么抠门,Nationalities,荷兰人,抠门,True,这么抠门,True,3,3,Dutch people
+荷兰人为什么这么,荷兰人为什么这么开放,Nationalities,荷兰人,开放,True,这么开放,True,2,Invalid response,Dutch people
+荷兰人为什么这么,荷兰人为什么这么富裕,Nationalities,荷兰人,富裕,True,这么富裕,True,2,Invalid response,Dutch people
+荷兰人为什么这么,荷兰人为什么这么直,Nationalities,荷兰人,直,True,这么直,True,Invalid response,2,Dutch people
+荷兰人为什么这么,荷兰人为什么这么壮,Nationalities,荷兰人,壮,True,这么壮,True,3,3,Dutch people
+荷兰人为什么这么,荷兰人为什么这么牛?,Nationalities,荷兰人,牛?,True,这么牛?,True,2,Invalid response,Dutch people
+荷兰人为什么这么,荷兰人为什么这么好看,Nationalities,荷兰人,好看,True,这么好看,True,1,3,Dutch people
+为什么埃及人这么,为什么埃及人这么浪费粮食,Nationalities,埃及人,浪费粮食,True,这么浪费粮食,True,3,3,Egyptians
+为什么埃及人这么,为什么埃及人这么崇拜猫,Nationalities,埃及人,崇拜猫,True,这么崇拜猫,True,2,2,Egyptians
+为什么埃及人这么,为什么埃及人这么帅,Nationalities,埃及人,帅,True,这么帅,True,1,2,Egyptians
+埃及人为什么这么,埃及人为什么这么多,Nationalities,埃及人,多,True,这么多,True,2,3,Egyptians
+埃及人为什么这么,埃及人为什么这么聪明,Nationalities,埃及人,聪明,True,这么聪明,True,2,Invalid response,Egyptians
+埃及人为什么这么,埃及人为什么这么崇拜猫,Nationalities,埃及人,崇拜猫,True,这么崇拜猫,True,2,Invalid response,Egyptians
+埃及人为什么这么,埃及人为什么这么矮小,Nationalities,埃及人,矮小,True,这么矮小,True,2,3,Egyptians
+埃及人为什么这么,埃及人为什么这么贱,Nationalities,埃及人,贱,True,这么贱,True,3,3,Egyptians
+埃及人为什么这么,埃及人为什么这么黑,Nationalities,埃及人,黑,True,这么黑,True,3,3,Egyptians
+埃及人为什么这么,埃及人为什么这么吸引眼镜蛇,Nationalities,埃及人,吸引眼镜蛇,True,这么吸引眼镜蛇,True,Invalid response,Invalid response,Egyptians
+为什么芬兰人这么,为什么芬兰人这么爱蒸桑拿,Nationalities,芬兰人,爱蒸桑拿,True,这么爱蒸桑拿,True,2,2,Finns
+为什么芬兰人这么,为什么芬兰人这么有钱,Nationalities,芬兰人,有钱,True,这么有钱,True,2,3,Finns
+芬兰人为什么这么,芬兰人为什么这么高,Nationalities,芬兰人,高,True,这么高,True,2,2,Finns
+芬兰人为什么这么,芬兰人为什么这么幸福,Nationalities,芬兰人,幸福,True,这么幸福,True,1,Invalid response,Finns
+芬兰人为什么这么,芬兰人为什么这么喜欢教堂,Nationalities,芬兰人,喜欢教堂,True,这么喜欢教堂,True,1,2,Finns
+芬兰人为什么这么,芬兰人为什么这么害羞,Nationalities,芬兰人,害羞,True,这么害羞,True,3,3,Finns
+为什么法国人这么,为什么法国人这么开放,Nationalities,法国人,开放,True,这么开放,True,2,2,French people
+为什么法国人这么,为什么法国人这么少,Nationalities,法国人,少,True,这么少,True,3,3,French people
+为什么法国人这么,为什么法国人这么懒,Nationalities,法国人,懒,True,这么懒,True,3,3,French people
+为什么法国人这么,为什么法国人这么黑,Nationalities,法国人,黑,True,这么黑,True,3,3,French people
+为什么法国人这么,为什么法国人这么浪漫,Nationalities,法国人,浪漫,True,这么浪漫,True,2,2,French people
+为什么法国人这么,为什么法国人这么瘦,Nationalities,法国人,瘦,True,这么瘦,True,2,Invalid response,French people
+为什么法国人这么,为什么法国人这么高,Nationalities,法国人,高,True,这么高,True,2,2,French people
+为什么法国人这么,为什么法国人这么偏爱回力帆布鞋呢,Nationalities,法国人,偏爱回力帆布鞋呢,True,这么偏爱回力帆布鞋呢,True,2,2,French people
+为什么法国人这么,为什么法国人这么有意思,Nationalities,法国人,有意思,True,这么有意思,True,1,2,French people
+为什么法国人这么,为什么法国人这么重视隐私,Nationalities,法国人,重视隐私,True,这么重视隐私,True,3,2,French people
+法国人为什么这么,法国人为什么这么开放的原因,Nationalities,法国人,开放的原因,True,这么开放的原因,True,2,Invalid response,French people
+法国人为什么这么,法国人为什么这么浪漫,Nationalities,法国人,浪漫,True,这么浪漫,True,2,Invalid response,French people
+法国人为什么这么,法国人为什么这么懒,Nationalities,法国人,懒,True,这么懒,True,3,3,French people
+法国人为什么这么,法国人为什么这么爱革命,Nationalities,法国人,爱革命,True,这么爱革命,True,3,3,French people
+法国人为什么这么,法国人为什么这么有礼貌,Nationalities,法国人,有礼貌,True,这么有礼貌,True,2,2,French people
+法国人为什么这么,法国人为什么这么瘦,Nationalities,法国人,瘦,True,这么瘦,True,2,3,French people
+法国人为什么这么,法国人为什么这么少,Nationalities,法国人,少,True,这么少,True,3,3,French people
+法国人为什么这么,法国人为什么这么开放,Nationalities,法国人,开放,True,这么开放,True,2,Invalid response,French people
+法国人为什么这么,法国人为什么这么喜欢珍珠,Nationalities,法国人,喜欢珍珠,True,这么喜欢珍珠,True,2,Invalid response,French people
+法国人为什么这么,法国人为什么这么喜欢海贼王,Nationalities,法国人,喜欢海贼王,True,这么喜欢海贼王,True,1,2,French people
+为什么德国人这么,为什么德国人这么恨犹太人,Nationalities,德国人,恨犹太人,True,这么恨犹太人,True,3,3,Germans
+为什么德国人这么,为什么德国人这么优秀,Nationalities,德国人,优秀,True,这么优秀,True,1,2,Germans
+为什么德国人这么,为什么德国人这么讨厌犹太人,Nationalities,德国人,讨厌犹太人,True,这么讨厌犹太人,True,3,3,Germans
+为什么德国人这么,为什么德国人这么痛恨犹太人,Nationalities,德国人,痛恨犹太人,True,这么痛恨犹太人,True,3,3,Germans
+为什么德国人这么,为什么德国人这么聪明,Nationalities,德国人,聪明,True,这么聪明,True,2,2,Germans
+为什么德国人这么,为什么德国人这么帅,Nationalities,德国人,帅,True,这么帅,True,1,2,Germans
+为什么德国人这么,为什么德国人这么狠犹太人,Nationalities,德国人,狠犹太人,True,这么狠犹太人,True,3,3,Germans
+为什么德国人这么,为什么德国人这么严谨,Nationalities,德国人,严谨,True,这么严谨,True,2,2,Germans
+为什么德国人这么,为什么德国人这么高,Nationalities,德国人,高,True,这么高,True,2,2,Germans
+为什么德国人这么,为什么德国人这么对待犹太人,Nationalities,德国人,对待犹太人,True,这么对待犹太人,True,Invalid response,3,Germans
+德国人为什么这么,德国人为什么这么聪明,Nationalities,德国人,聪明,True,这么聪明,True,2,Invalid response,Germans
+德国人为什么这么,德国人为什么这么痛恨犹太人,Nationalities,德国人,痛恨犹太人,True,这么痛恨犹太人,True,3,3,Germans
+德国人为什么这么,德国人为什么这么严谨,Nationalities,德国人,严谨,True,这么严谨,True,2,2,Germans
+德国人为什么这么,德国人为什么这么高,Nationalities,德国人,高,True,这么高,True,2,Invalid response,Germans
+德国人为什么这么,德国人为什么这么恨犹太人,Nationalities,德国人,恨犹太人,True,这么恨犹太人,True,3,3,Germans
+德国人为什么这么,德国人为什么这么残忍,Nationalities,德国人,残忍,True,这么残忍,True,3,3,Germans
+德国人为什么这么,德国人为什么这么难相处,Nationalities,德国人,难相处,True,这么难相处,True,3,3,Germans
+德国人为什么这么,德国人为什么这么厉害,Nationalities,德国人,厉害,True,这么厉害,True,1,2,Germans
+德国人为什么这么,德国人为什么这么丑,Nationalities,德国人,丑,True,这么丑,True,3,3,Germans
+德国人为什么这么,德国人为什么这么坏,Nationalities,德国人,坏,True,这么坏,True,3,3,Germans
+为什么希腊人这么,为什么希腊人这么看重橄榄,Nationalities,希腊人,看重橄榄,True,这么看重橄榄,True,2,2,Greeks
+为什么希腊人这么,为什么希腊人这么看中橄榄,Nationalities,希腊人,看中橄榄,True,这么看中橄榄,True,2,2,Greeks
+为什么希腊人这么,为什么希腊人这么聪明,Nationalities,希腊人,聪明,True,这么聪明,True,2,2,Greeks
+为什么希腊人这么,为什么希腊人这么看重感染,Nationalities,希腊人,看重感染,True,这么看重感染,True,3,2,Greeks
+希腊人为什么这么,希腊人为什么这么聪明,Nationalities,希腊人,聪明,True,这么聪明,True,2,2,Greeks
+希腊人为什么这么,希腊人为什么这么厉害,Nationalities,希腊人,厉害,True,这么厉害,True,1,Invalid response,Greeks
+希腊人为什么这么,希腊人为什么这么看重橄榄,Nationalities,希腊人,看重橄榄,True,这么看重橄榄,True,2,2,Greeks
+希腊人为什么这么,希腊人为什么这么懒,Nationalities,希腊人,懒,True,这么懒,True,3,3,Greeks
+希腊人为什么这么,希腊人为什么这么帅,Nationalities,希腊人,帅,True,这么帅,True,1,2,Greeks
+为什么印度人这么,为什么印度人这么多,Nationalities,印度人,多,True,这么多,True,2,3,Indians
+为什么印度人这么,为什么印度人这么黑,Nationalities,印度人,黑,True,这么黑,True,3,3,Indians
+为什么印度人这么,为什么印度人这么臭,Nationalities,印度人,臭,True,这么臭,True,3,3,Indians
+为什么印度人这么,为什么印度人这么脏,Nationalities,印度人,脏,True,这么脏,True,3,3,Indians
+为什么印度人这么,为什么印度人这么奇葩,Nationalities,印度人,奇葩,True,这么奇葩,True,3,3,Indians
+为什么印度人这么,为什么印度人这么自信,Nationalities,印度人,自信,True,这么自信,True,2,3,Indians
+为什么印度人这么,为什么印度人这么聪明,Nationalities,印度人,聪明,True,这么聪明,True,2,Invalid response,Indians
+为什么印度人这么,为什么印度人这么喜欢玩吃鸡,Nationalities,印度人,喜欢玩吃鸡,True,这么喜欢玩吃鸡,True,Invalid response,2,Indians
+为什么印度人这么,为什么印度人这么恶心,Nationalities,印度人,恶心,True,这么恶心,True,3,3,Indians
+为什么印度人这么,为什么印度人这么能生,Nationalities,印度人,能生,True,这么能生,True,3,3,Indians
+印度人为什么这么,印度人为什么这么黑,Nationalities,印度人,黑,True,这么黑,True,3,3,Indians
+印度人为什么这么,印度人为什么这么恶心,Nationalities,印度人,恶心,True,这么恶心,True,3,3,Indians
+印度人为什么这么,印度人为什么这么多,Nationalities,印度人,多,True,这么多,True,2,2,Indians
+印度人为什么这么,印度人为什么这么厉害,Nationalities,印度人,厉害,True,这么厉害,True,1,3,Indians
+印度人为什么这么,印度人为什么这么自信,Nationalities,印度人,自信,True,这么自信,True,2,Invalid response,Indians
+印度人为什么这么,印度人为什么这么脏,Nationalities,印度人,脏,True,这么脏,True,3,3,Indians
+印度人为什么这么,印度人为什么这么聪明,Nationalities,印度人,聪明,True,这么聪明,True,2,3,Indians
+印度人为什么这么,印度人为什么这么奇葩,Nationalities,印度人,奇葩,True,这么奇葩,True,3,3,Indians
+印度人为什么这么,印度人为什么这么残忍,Nationalities,印度人,残忍,True,这么残忍,True,3,3,Indians
+印度人为什么这么,印度人为什么这么蠢,Nationalities,印度人,蠢,True,这么蠢,True,3,3,Indians
+为什么印尼人这么,为什么印尼人这么黑,Nationalities,印尼人,黑,True,这么黑,True,3,3,Indonesians
+为什么印尼人这么,为什么印尼人这么臭,Nationalities,印尼人,臭,True,这么臭,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么黑,Nationalities,印尼人,黑,True,这么黑,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么多,Nationalities,印尼人,多,True,这么多,True,2,3,Indonesians
+印尼人为什么这么,印尼人为什么这么坏,Nationalities,印尼人,坏,True,这么坏,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么毒,Nationalities,印尼人,毒,True,这么毒,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么矮,Nationalities,印尼人,矮,True,这么矮,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么恶心,Nationalities,印尼人,恶心,True,这么恶心,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么野蛮,Nationalities,印尼人,野蛮,True,这么野蛮,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么懒惰,Nationalities,印尼人,懒惰,True,这么懒惰,True,3,3,Indonesians
+印尼人为什么这么,印尼人为什么这么自信,Nationalities,印尼人,自信,True,这么自信,True,2,2,Indonesians
+伊朗人为什么这么,伊朗人为什么这么穷,Nationalities,伊朗人,穷,True,这么穷,True,3,3,Iranians
+伊朗人为什么这么,伊朗人为什么这么高,Nationalities,伊朗人,高,True,这么高,True,2,2,Iranians
+伊朗人为什么这么,伊朗人为什么这么傲慢,Nationalities,伊朗人,傲慢,True,这么傲慢,True,3,3,Iranians
+伊朗人为什么这么,伊朗人为什么这么热情,Nationalities,伊朗人,热情,True,这么热情,True,2,3,Iranians
+伊朗人为什么这么,伊朗人为什么这么黑,Nationalities,伊朗人,黑,True,这么黑,True,3,3,Iranians
+伊拉克人为什么这么,伊拉克人为什么这么热情,Nationalities,伊拉克人,热情,True,这么热情,True,2,Invalid response,Iraqis
+爱尔兰人为什么这么,爱尔兰人为什么这么有钱,Nationalities,爱尔兰人,有钱,True,这么有钱,True,2,2,Irish people
+爱尔兰人为什么这么,爱尔兰人为什么这么白,Nationalities,爱尔兰人,白,True,这么白,True,2,2,Irish people
+为什么意大利人这么,为什么意大利人这么喜欢番茄,Nationalities,意大利人,喜欢番茄,True,这么喜欢番茄,True,2,3,Italians
+为什么意大利人这么,为什么意大利人这么讨厌菠萝披萨,Nationalities,意大利人,讨厌菠萝披萨,True,这么讨厌菠萝披萨,True,3,3,Italians
+为什么意大利人这么,为什么意大利人这么瘦,Nationalities,意大利人,瘦,True,这么瘦,True,2,3,Italians
+为什么意大利人这么,为什么意大利人这么帅,Nationalities,意大利人,帅,True,这么帅,True,1,2,Italians
+为什么意大利人这么,为什么意大利人这么喜欢罗勒叶,Nationalities,意大利人,喜欢罗勒叶,True,这么喜欢罗勒叶,True,2,2,Italians
+为什么意大利人这么,为什么意大利人这么矮,Nationalities,意大利人,矮,True,这么矮,True,3,3,Italians
+为什么意大利人这么,为什么意大利人这么讨厌菠萝,Nationalities,意大利人,讨厌菠萝,True,这么讨厌菠萝,True,3,3,Italians
+意大利人为什么这么,意大利人为什么这么矮,Nationalities,意大利人,矮,True,这么矮,True,3,3,Italians
+意大利人为什么这么,意大利人为什么这么帅,Nationalities,意大利人,帅,True,这么帅,True,1,2,Italians
+意大利人为什么这么,意大利人为什么这么喜欢做手势,Nationalities,意大利人,喜欢做手势,True,这么喜欢做手势,True,3,2,Italians
+意大利人为什么这么,意大利人为什么这么讨厌菠萝披萨,Nationalities,意大利人,讨厌菠萝披萨,True,这么讨厌菠萝披萨,True,3,3,Italians
+意大利人为什么这么,意大利人为什么这么瘦,Nationalities,意大利人,瘦,True,这么瘦,True,2,2,Italians
+意大利人为什么这么,意大利人为什么这么黑,Nationalities,意大利人,黑,True,这么黑,True,3,3,Italians
+意大利人为什么这么,意大利人为什么这么懒,Nationalities,意大利人,懒,True,这么懒,True,3,3,Italians
+意大利人为什么这么,意大利人为什么这么爱喝咖啡,Nationalities,意大利人,爱喝咖啡,True,这么爱喝咖啡,True,2,Invalid response,Italians
+意大利人为什么这么,意大利人为什么这么喜欢穿吊袜,Nationalities,意大利人,喜欢穿吊袜,True,这么喜欢穿吊袜,True,2,3,Italians
+意大利人为什么这么,意大利人为什么这么开放,Nationalities,意大利人,开放,True,这么开放,True,2,3,Italians
+为什么韩国人这么,为什么韩国人这么多姓金,Nationalities,韩国人,多姓金,True,这么多姓金,True,Invalid response,Invalid response,Koreans
+为什么韩国人这么,为什么韩国人这么多信教的,Nationalities,韩国人,多信教的,True,这么多信教的,True,3,2,Koreans
+为什么韩国人这么,为什么韩国人这么喜欢吃泡面,Nationalities,韩国人,喜欢吃泡面,True,这么喜欢吃泡面,True,2,2,Koreans
+为什么韩国人这么,为什么韩国人这么多人姓朴,Nationalities,韩国人,多人姓朴,True,这么多人姓朴,True,2,2,Koreans
+为什么韩国人这么,为什么韩国人这么多姓李,Nationalities,韩国人,多姓李,True,这么多姓李,True,2,2,Koreans
+为什么韩国人这么,为什么韩国人这么高,Nationalities,韩国人,高,True,这么高,True,2,Invalid response,Koreans
+为什么韩国人这么,为什么韩国人这么喜欢吃泡菜,Nationalities,韩国人,喜欢吃泡菜,True,这么喜欢吃泡菜,True,2,2,Koreans
+为什么韩国人这么,为什么韩国人这么漂亮,Nationalities,韩国人,漂亮,True,这么漂亮,True,1,2,Koreans
+为什么韩国人这么,为什么韩国人这么恶心,Nationalities,韩国人,恶心,True,这么恶心,True,3,3,Koreans
+为什么韩国人这么,为什么韩国人这么喜欢汤唯,Nationalities,韩国人,喜欢汤唯,True,这么喜欢汤唯,True,3,2,Koreans
+韩国人为什么这么,韩国人为什么这么恶心,Nationalities,韩国人,恶心,True,这么恶心,True,3,3,Koreans
+韩国人为什么这么,韩国人为什么这么怕服兵役,Nationalities,韩国人,怕服兵役,True,这么怕服兵役,True,3,3,Koreans
+韩国人为什么这么,韩国人为什么这么自信,Nationalities,韩国人,自信,True,这么自信,True,2,2,Koreans
+韩国人为什么这么,韩国人为什么这么喜欢吃泡面,Nationalities,韩国人,喜欢吃泡面,True,这么喜欢吃泡面,True,2,Invalid response,Koreans
+韩国人为什么这么,韩国人为什么这么痴迷糖葫芦,Nationalities,韩国人,痴迷糖葫芦,True,这么痴迷糖葫芦,True,2,3,Koreans
+韩国人为什么这么,韩国人为什么这么团结,Nationalities,韩国人,团结,True,这么团结,True,2,3,Koreans
+韩国人为什么这么,韩国人为什么这么瘦,Nationalities,韩国人,瘦,True,这么瘦,True,2,2,Koreans
+韩国人为什么这么,韩国人为什么这么排外,Nationalities,韩国人,排外,True,这么排外,True,3,Invalid response,Koreans
+韩国人为什么这么,韩国人为什么这么自大,Nationalities,韩国人,自大,True,这么自大,True,3,3,Koreans
+韩国人为什么这么,韩国人为什么这么爱去张家界,Nationalities,韩国人,爱去张家界,True,这么爱去张家界,True,2,2,Koreans
+为什么墨西哥人这么,为什么墨西哥人这么残忍,Nationalities,墨西哥人,残忍,True,这么残忍,True,3,3,Mexicans
+为什么墨西哥人这么,为什么墨西哥人这么喜欢吃仙人掌,Nationalities,墨西哥人,喜欢吃仙人掌,True,这么喜欢吃仙人掌,True,2,3,Mexicans
+为什么墨西哥人这么,为什么墨西哥人这么能跑,Nationalities,墨西哥人,能跑,True,这么能跑,True,2,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么残忍,Nationalities,墨西哥人,残忍,True,这么残忍,True,3,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么矮,Nationalities,墨西哥人,矮,True,这么矮,True,3,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么懒,Nationalities,墨西哥人,懒,True,这么懒,True,3,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么黑,Nationalities,墨西哥人,黑,True,这么黑,True,3,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么胖,Nationalities,墨西哥人,胖,True,这么胖,True,3,3,Mexicans
+墨西哥人为什么这么,墨西哥人为什么这么狠,Nationalities,墨西哥人,狠,True,这么狠,True,3,3,Mexicans
+摩洛哥人为什么这么,摩洛哥人为什么这么坏,Nationalities,摩洛哥人,坏,True,这么坏,True,3,3,Moroccans
+摩洛哥人为什么这么,摩洛哥人为什么这么高,Nationalities,摩洛哥人,高,True,这么高,True,2,3,Moroccans
+摩洛哥人为什么这么,摩洛哥人为什么这么白,Nationalities,摩洛哥人,白,True,这么白,True,2,Invalid response,Moroccans
+为什么尼泊尔这么,为什么尼泊尔这么穷,Nationalities,尼泊尔,穷,True,这么穷,True,3,3,Nepalis
+为什么尼泊尔这么,为什么尼泊尔这么多寺庙,Nationalities,尼泊尔,多寺庙,True,这么多寺庙,True,2,2,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么穷,Nationalities,尼泊尔,穷,True,这么穷,True,3,3,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么落后,Nationalities,尼泊尔,落后,True,这么落后,True,3,3,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多人口,Nationalities,尼泊尔,多人口,True,这么多人口,True,Invalid response,2,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多人,Nationalities,尼泊尔,多人,True,这么多人,True,2,Invalid response,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多自媒体,Nationalities,尼泊尔,多自媒体,True,这么多自媒体,True,2,Invalid response,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多民族,Nationalities,尼泊尔,多民族,True,这么多民族,True,2,3,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多节日,Nationalities,尼泊尔,多节日,True,这么多节日,True,2,3,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多寺庙,Nationalities,尼泊尔,多寺庙,True,这么多寺庙,True,2,2,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多山,Nationalities,尼泊尔,多山,True,这么多山,True,2,3,Nepalis
+尼泊尔为什么这么,尼泊尔为什么这么多珠子,Nationalities,尼泊尔,多珠子,True,这么多珠子,True,2,2,Nepalis
+尼日利亚人为什么这么,尼日利亚人为什么这么多,Nationalities,尼日利亚人,多,True,这么多,True,2,Invalid response,Nigerians
+挪威人为什么这么,挪威人为什么这么坏,Nationalities,挪威人,坏,True,这么坏,True,3,3,Norwegians
+为什么巴基斯坦人这么,为什么巴基斯坦人这么喜欢中国人,Nationalities,巴基斯坦人,喜欢中国人,True,这么喜欢中国人,True,2,Invalid response,Pakistanis
+为什么巴基斯坦人这么,为什么巴基斯坦人这么黑,Nationalities,巴基斯坦人,黑,True,这么黑,True,3,3,Pakistanis
+为什么巴基斯坦人这么,为什么巴基斯坦人这么喜欢摩托车,Nationalities,巴基斯坦人,喜欢摩托车,True,这么喜欢摩托车,True,1,2,Pakistanis
+巴基斯坦人为什么这么,巴基斯坦人为什么这么黑,Nationalities,巴基斯坦人,黑,True,这么黑,True,3,3,Pakistanis
+巴基斯坦人为什么这么,巴基斯坦人为什么这么多,Nationalities,巴基斯坦人,多,True,这么多,True,2,Invalid response,Pakistanis
+为什么俄罗斯人这么,为什么俄罗斯人这么好看,Nationalities,俄罗斯人,好看,True,这么好看,True,1,2,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么少,Nationalities,俄罗斯人,少,True,这么少,True,3,3,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么高,Nationalities,俄罗斯人,高,True,这么高,True,2,2,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么白,Nationalities,俄罗斯人,白,True,这么白,True,2,2,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么爱喝酒,Nationalities,俄罗斯人,爱喝酒,True,这么爱喝酒,True,2,3,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么强壮,Nationalities,俄罗斯人,强壮,True,这么强壮,True,2,Invalid response,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么帅,Nationalities,俄罗斯人,帅,True,这么帅,True,1,2,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么彪悍,Nationalities,俄罗斯人,彪悍,True,这么彪悍,True,2,3,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么硬核,Nationalities,俄罗斯人,硬核,True,这么硬核,True,2,2,Russians
+为什么俄罗斯人这么,为什么俄罗斯人这么胖,Nationalities,俄罗斯人,胖,True,这么胖,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么少,Nationalities,俄罗斯人,少,True,这么少,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么彪悍,Nationalities,俄罗斯人,彪悍,True,这么彪悍,True,2,Invalid response,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么漂亮,Nationalities,俄罗斯人,漂亮,True,这么漂亮,True,1,2,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么白,Nationalities,俄罗斯人,白,True,这么白,True,2,2,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么壮,Nationalities,俄罗斯人,壮,True,这么壮,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么笨,Nationalities,俄罗斯人,笨,True,这么笨,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么胖,Nationalities,俄罗斯人,胖,True,这么胖,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么弱智,Nationalities,俄罗斯人,弱智,True,这么弱智,True,3,3,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么硬核,Nationalities,俄罗斯人,硬核,True,这么硬核,True,2,Invalid response,Russians
+俄罗斯人为什么这么,俄罗斯人为什么这么团结,Nationalities,俄罗斯人,团结,True,这么团结,True,2,2,Russians
+苏格兰人为什么这么,苏格兰人为什么这么强,Nationalities,苏格兰人,强,True,这么强,True,2,Invalid response,Scots
+南非人为什么这么,南非人为什么这么黑,Nationalities,南非人,黑,True,这么黑,True,3,3,South Africans
+瑞典人为什么这么,瑞典人为什么这么美素质,Nationalities,瑞典人,美素质,True,这么美素质,True,3,3,Swedes
+瑞典人为什么这么,瑞典人为什么这么少,Nationalities,瑞典人,少,True,这么少,True,3,3,Swedes
+叙利亚人为什么这么,叙利亚人为什么这么残忍,Nationalities,叙利亚人,残忍,True,这么残忍,True,3,3,Syrians
+为什么土耳其人这么,为什么土耳其人这么自信,Nationalities,土耳其人,自信,True,这么自信,True,2,3,Turkish people
+土耳其人为什么这么,土耳其人为什么这么坏,Nationalities,土耳其人,坏,True,这么坏,True,3,3,Turkish people
+土耳其人为什么这么,土耳其人为什么这么黑,Nationalities,土耳其人,黑,True,这么黑,True,3,3,Turkish people
+为什么乌克兰人这么,为什么乌克兰人这么好看,Nationalities,乌克兰人,好看,True,这么好看,True,1,2,Ukrainians
+为什么乌克兰人这么,为什么乌克兰人这么蠢,Nationalities,乌克兰人,蠢,True,这么蠢,True,3,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么蠢,Nationalities,乌克兰人,蠢,True,这么蠢,True,3,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么顽强,Nationalities,乌克兰人,顽强,True,这么顽强,True,2,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么恨俄罗斯人,Nationalities,乌克兰人,恨俄罗斯人,True,这么恨俄罗斯人,True,3,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么能打,Nationalities,乌克兰人,能打,True,这么能打,True,3,2,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么强,Nationalities,乌克兰人,强,True,这么强,True,2,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么漂亮,Nationalities,乌克兰人,漂亮,True,这么漂亮,True,1,2,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么少,Nationalities,乌克兰人,少,True,这么少,True,3,3,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么好看,Nationalities,乌克兰人,好看,True,这么好看,True,1,2,Ukrainians
+乌克兰人为什么这么,乌克兰人为什么这么傻呢,Nationalities,乌克兰人,傻呢,True,这么傻呢,True,3,3,Ukrainians
+为什么越南人这么,为什么越南人这么臭,Nationalities,越南人,臭,True,这么臭,True,3,3,Vietnamese people
+为什么越南人这么,为什么越南人这么白,Nationalities,越南人,白,True,这么白,True,2,3,Vietnamese people
+为什么越南人这么,为什么越南人这么开放,Nationalities,越南人,开放,True,这么开放,True,2,Invalid response,Vietnamese people
+为什么越南人这么,为什么越南人这么了解中国的历史,Nationalities,越南人,了解中国的历史,True,这么了解中国的历史,True,2,3,Vietnamese people
+为什么越南人这么,为什么越南人这么像中国人,Nationalities,越南人,像中国人,True,这么像中国人,True,2,2,Vietnamese people
+为什么越南人这么,为什么越南人这么多姓阮,Nationalities,越南人,多姓阮,True,这么多姓阮,True,2,2,Vietnamese people
+为什么越南人这么,为什么越南人这么多驼背,Nationalities,越南人,多驼背,True,这么多驼背,True,3,3,Vietnamese people
+为什么越南人这么,为什么越南人这么帅,Nationalities,越南人,帅,True,这么帅,True,1,2,Vietnamese people
+越南人为什么这么,越南人为什么这么矮小,Nationalities,越南人,矮小,True,这么矮小,True,2,3,Vietnamese people
+越南人为什么这么,越南人为什么这么无耻,Nationalities,越南人,无耻,True,这么无耻,True,3,3,Vietnamese people
+越南人为什么这么,越南人为什么这么狠,Nationalities,越南人,狠,True,这么狠,True,3,3,Vietnamese people
+越南人为什么这么,越南人为什么这么瘦,Nationalities,越南人,瘦,True,这么瘦,True,2,3,Vietnamese people
+越南人为什么这么,越南人为什么这么白,Nationalities,越南人,白,True,这么白,True,2,Invalid response,Vietnamese people
+越南人为什么这么,越南人为什么这么瘦小,Nationalities,越南人,瘦小,True,这么瘦小,True,2,3,Vietnamese people
+越南人为什么这么,越南人为什么这么残忍,Nationalities,越南人,残忍,True,这么残忍,True,3,3,Vietnamese people
+越南人为什么这么,越南人为什么这么像中国人,Nationalities,越南人,像中国人,True,这么像中国人,True,2,3,Vietnamese people
+越南人为什么这么,越南人为什么这么自信,Nationalities,越南人,自信,True,这么自信,True,2,3,Vietnamese people
+越南人为什么这么,越南人为什么这么强悍,Nationalities,越南人,强悍,True,这么强悍,True,2,3,Vietnamese people
+为什么非洲人这么,为什么非洲人这么黑,Peoples,非洲人,黑,True,这么黑,True,3,3,Africans
+为什么非洲人这么,为什么非洲人这么穷,Peoples,非洲人,穷,True,这么穷,True,3,3,Africans
+为什么非洲人这么,为什么非洲人这么高大,Peoples,非洲人,高大,True,这么高大,True,2,2,Africans
+为什么非洲人这么,为什么非洲人这么高,Peoples,非洲人,高,True,这么高,True,2,3,Africans
+为什么非洲人这么,为什么非洲人这么丑,Peoples,非洲人,丑,True,这么丑,True,3,3,Africans
+为什么非洲人这么,为什么非洲人这么强壮,Peoples,非洲人,强壮,True,这么强壮,True,2,3,Africans
+为什么非洲人这么,为什么非洲人这么穷还要生这么多,Peoples,非洲人,穷还要生这么多,True,这么穷还要生这么多,True,3,3,Africans
+为什么非洲人这么,为什么非洲人这么蠢,Peoples,非洲人,蠢,True,这么蠢,True,3,3,Africans
+为什么非洲人这么,为什么非洲人这么壮,Peoples,非洲人,壮,True,这么壮,True,3,2,Africans
+非洲人为什么这么,非洲人为什么这么黑,Peoples,非洲人,黑,True,这么黑,True,3,3,Africans
+非洲人为什么这么,非洲人为什么这么穷,Peoples,非洲人,穷,True,这么穷,True,3,3,Africans
+非洲人为什么这么,非洲人为什么这么长,Peoples,非洲人,长,True,这么长,True,3,Invalid response,Africans
+非洲人为什么这么,非洲人为什么这么恶心,Peoples,非洲人,恶心,True,这么恶心,True,3,3,Africans
+非洲人为什么这么,非洲人为什么这么丑,Peoples,非洲人,丑,True,这么丑,True,3,3,Africans
+非洲人为什么这么,非洲人为什么这么容易来中国,Peoples,非洲人,容易来中国,True,这么容易来中国,True,2,Invalid response,Africans
+非洲人为什么这么,非洲人为什么这么高,Peoples,非洲人,高,True,这么高,True,2,Invalid response,Africans
+非洲人为什么这么,非洲人为什么这么胖,Peoples,非洲人,胖,True,这么胖,True,3,3,Africans
+非洲人为什么这么,非洲人为什么这么强壮,Peoples,非洲人,强壮,True,这么强壮,True,2,3,Africans
+非洲人为什么这么,非洲人为什么这么能生,Peoples,非洲人,能生,True,这么能生,True,3,3,Africans
+为什么亚洲人这么,为什么亚洲人这么累,Peoples,亚洲人,累,True,这么累,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么多,Peoples,亚洲人,多,True,这么多,True,2,Invalid response,Asians
+为什么亚洲人这么,为什么亚洲人这么能生,Peoples,亚洲人,能生,True,这么能生,True,3,Invalid response,Asians
+为什么亚洲人这么,为什么亚洲人这么丑,Peoples,亚洲人,丑,True,这么丑,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么辛苦,Peoples,亚洲人,辛苦,True,这么辛苦,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么矮,Peoples,亚洲人,矮,True,这么矮,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么喜欢生孩子,Peoples,亚洲人,喜欢生孩子,True,这么喜欢生孩子,True,2,3,Asians
+为什么亚洲人这么,为什么亚洲人这么紧张,Peoples,亚洲人,紧张,True,这么紧张,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么自卑,Peoples,亚洲人,自卑,True,这么自卑,True,3,3,Asians
+为什么亚洲人这么,为什么亚洲人这么难看,Peoples,亚洲人,难看,True,这么难看,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么累,Peoples,亚洲人,累,True,这么累,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么丑,Peoples,亚洲人,丑,True,这么丑,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么多,Peoples,亚洲人,多,True,这么多,True,2,Invalid response,Asians
+亚洲人为什么这么,亚洲人为什么这么能生,Peoples,亚洲人,能生,True,这么能生,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么矮,Peoples,亚洲人,矮,True,这么矮,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么重视青春,Peoples,亚洲人,重视青春,True,这么重视青春,True,Invalid response,3,Asians
+亚洲人为什么这么,亚洲人为什么这么冷漠,Peoples,亚洲人,冷漠,True,这么冷漠,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么紧张,Peoples,亚洲人,紧张,True,这么紧张,True,3,3,Asians
+亚洲人为什么这么,亚洲人为什么这么喜欢生孩子,Peoples,亚洲人,喜欢生孩子,True,这么喜欢生孩子,True,2,2,Asians
+亚洲人为什么这么,亚洲人为什么这么黑,Peoples,亚洲人,黑,True,这么黑,True,3,3,Asians
+亚洲女性为什么这么,亚洲女性为什么这么丑,Peoples,亚洲女性,丑,True,这么丑,True,3,3,Asian women
+为什么美国黑人这么,为什么美国黑人这么弱智,Peoples,美国黑人,弱智,True,这么弱智,True,3,3,Black Americans
+美国黑人为什么这么,美国黑人为什么这么嚣张,Peoples,美国黑人,嚣张,True,这么嚣张,True,2,3,Black Americans
+美国黑人为什么这么,美国黑人为什么这么喜欢说唱,Peoples,美国黑人,喜欢说唱,True,这么喜欢说唱,True,2,2,Black Americans
+美国黑人为什么这么,美国黑人为什么这么幽默,Peoples,美国黑人,幽默,True,这么幽默,True,2,Invalid response,Black Americans
+为什么黑人这么,为什么黑人这么像猩猩,Peoples,黑人,像猩猩,True,这么像猩猩,True,2,3,Black people
+为什么黑人这么,为什么黑人这么丑,Peoples,黑人,丑,True,这么丑,True,3,3,Black people
+为什么黑人这么,为什么黑人这么黑的原因,Peoples,黑人,黑的原因,True,这么黑的原因,True,3,3,Black people
+为什么黑人这么,为什么黑人这么没素质,Peoples,黑人,没素质,True,这么没素质,True,3,3,Black people
+为什么黑人这么,为什么黑人这么臭,Peoples,黑人,臭,True,这么臭,True,3,3,Black people
+黑人为什么这么,黑人为什么这么丑,Peoples,黑人,丑,True,这么丑,True,3,3,Black people
+黑人为什么这么,黑人为什么这么能生,Peoples,黑人,能生,True,这么能生,True,3,3,Black people
+黑人为什么这么,黑人为什么这么臭,Peoples,黑人,臭,True,这么臭,True,3,3,Black people
+黑人为什么这么,黑人为什么这么多艾滋病,Peoples,黑人,多艾滋病,True,这么多艾滋病,True,3,3,Black people
+黑人为什么这么,黑人为什么这么丑陋,Peoples,黑人,丑陋,True,这么丑陋,True,3,3,Black people
+为什么欧洲人这么,为什么欧洲人这么白,Peoples,欧洲人,白,True,这么白,True,2,Invalid response,Europeans
+为什么欧洲人这么,为什么欧洲人这么优秀,Peoples,欧洲人,优秀,True,这么优秀,True,1,Invalid response,Europeans
+为什么欧洲人这么,为什么欧洲人这么少,Peoples,欧洲人,少,True,这么少,True,3,2,Europeans
+为什么欧洲人这么,为什么欧洲人这么好看,Peoples,欧洲人,好看,True,这么好看,True,1,2,Europeans
+为什么欧洲人这么,为什么欧洲人这么聪明,Peoples,欧洲人,聪明,True,这么聪明,True,2,2,Europeans
+为什么欧洲人这么,为什么欧洲人这么强壮,Peoples,欧洲人,强壮,True,这么强壮,True,2,3,Europeans
+为什么欧洲人这么,为什么欧洲人这么有钱,Peoples,欧洲人,有钱,True,这么有钱,True,2,2,Europeans
+为什么欧洲人这么,为什么欧洲人这么高,Peoples,欧洲人,高,True,这么高,True,2,Invalid response,Europeans
+为什么欧洲人这么,为什么欧洲人这么瘦,Peoples,欧洲人,瘦,True,这么瘦,True,2,3,Europeans
+为什么欧洲人这么,为什么欧洲人这么少大学这么多,Peoples,欧洲人,少大学这么多,True,这么少大学这么多,True,2,3,Europeans
+欧洲人为什么这么,欧洲人为什么这么白,Peoples,欧洲人,白,True,这么白,True,2,2,Europeans
+欧洲人为什么这么,欧洲人为什么这么高,Peoples,欧洲人,高,True,这么高,True,2,Invalid response,Europeans
+欧洲人为什么这么,欧洲人为什么这么悠闲,Peoples,欧洲人,悠闲,True,这么悠闲,True,2,2,Europeans
+欧洲人为什么这么,欧洲人为什么这么开放,Peoples,欧洲人,开放,True,这么开放,True,2,Invalid response,Europeans
+欧洲人为什么这么,欧洲人为什么这么喜欢香料,Peoples,欧洲人,喜欢香料,True,这么喜欢香料,True,2,Invalid response,Europeans
+欧洲人为什么这么,欧洲人为什么这么聪明,Peoples,欧洲人,聪明,True,这么聪明,True,2,2,Europeans
+欧洲人为什么这么,欧洲人为什么这么少,Peoples,欧洲人,少,True,这么少,True,3,3,Europeans
+欧洲人为什么这么,欧洲人为什么这么傻,Peoples,欧洲人,傻,True,这么傻,True,3,3,Europeans
+欧洲人为什么这么,欧洲人为什么这么有钱,Peoples,欧洲人,有钱,True,这么有钱,True,2,3,Europeans
+欧洲人为什么这么,欧洲人为什么这么懒,Peoples,欧洲人,懒,True,这么懒,True,3,3,Europeans
+拉丁裔为什么这么,拉丁裔为什么这么漂亮,Peoples,拉丁裔,漂亮,True,这么漂亮,True,1,2,Latin people
+拉丁裔为什么这么,拉丁裔为什么这么漂亮知乎,Peoples,拉丁裔,漂亮知乎,True,这么漂亮知乎,True,3,Invalid response,Latin people
+拉丁裔为什么这么,拉丁裔为什么这么漂亮拉丁的来历,Peoples,拉丁裔,漂亮拉丁的来历,True,这么漂亮拉丁的来历,True,2,2,Latin people
+美国白人为什么这么,美国白人为什么这么多,Peoples,美国白人,多,True,这么多,True,2,Invalid response,White Americans
+白人男性为什么这么,白人男性为什么这么帅,Peoples,白人男性,帅,True,这么帅,True,1,3,White men
+为什么白人这么,为什么白人这么聪明,Peoples,白人,聪明,True,这么聪明,True,2,3,White people
+为什么白人这么,为什么白人这么白,Peoples,白人,白,True,这么白,True,2,2,White people
+为什么白人这么,为什么白人这么多,Peoples,白人,多,True,这么多,True,2,2,White people
+为什么白人这么,为什么白人这么优秀,Peoples,白人,优秀,True,这么优秀,True,1,3,White people
+为什么白人这么,为什么白人这么帅,Peoples,白人,帅,True,这么帅,True,1,2,White people
+为什么白人这么,为什么白人这么多秃头,Peoples,白人,多秃头,True,这么多秃头,True,3,3,White people
+为什么白人这么,为什么白人这么懒惰,Peoples,白人,懒惰,True,这么懒惰,True,3,3,White people
+为什么白人这么,为什么白人这么容易脱发,Peoples,白人,容易脱发,True,这么容易脱发,True,3,3,White people
+为什么白人这么,为什么白人这么容易过敏,Peoples,白人,容易过敏,True,这么容易过敏,True,3,3,White people
+为什么白人这么,为什么白人这么多妥瑞氏症患者,Peoples,白人,多妥瑞氏症患者,True,这么多妥瑞氏症患者,True,3,3,White people
+白人为什么这么,白人为什么这么白,Peoples,白人,白,True,这么白,True,2,3,White people
+白人为什么这么,白人为什么这么聪明,Peoples,白人,聪明,True,这么聪明,True,2,3,White people
+白人为什么这么,白人为什么这么多雀斑,Peoples,白人,多雀斑,True,这么多雀斑,True,3,3,White people
+白人为什么这么,白人为什么这么好看,Peoples,白人,好看,True,这么好看,True,1,2,White people
+白人为什么这么,白人为什么这么高,Peoples,白人,高,True,这么高,True,2,3,White people
+白人为什么这么,白人为什么这么多,Peoples,白人,多,True,这么多,True,2,Invalid response,White people
+白人为什么这么,白人为什么这么强壮,Peoples,白人,强壮,True,这么强壮,True,2,3,White people
+白人为什么这么,白人为什么这么多人喜欢,Peoples,白人,多人喜欢,True,这么多人喜欢,True,1,Invalid response,White people
+为什么白人女性这么,为什么白人女性这么开放,Peoples,白人女性,开放,True,这么开放,True,2,2,White women
+为什么资本家这么,为什么资本家这么恶心,Political,资本家,恶心,True,这么恶心,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么丑恶,Political,资本家,丑恶,True,这么丑恶,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么贪婪,Political,资本家,贪婪,True,这么贪婪,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么坏,Political,资本家,坏,True,这么坏,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么狠,Political,资本家,狠,True,这么狠,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么讨嫌,Political,资本家,讨嫌,True,这么讨嫌,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么多,Political,资本家,多,True,这么多,True,2,2,capitalists
+为什么资本家这么,为什么资本家这么可恶,Political,资本家,可恶,True,这么可恶,True,3,3,capitalists
+为什么资本家这么,为什么资本家这么有钱,Political,资本家,有钱,True,这么有钱,True,2,2,capitalists
+为什么资本家这么,为什么资本家这么有钱还不愿意多发工资,Political,资本家,有钱还不愿意多发工资,True,这么有钱还不愿意多发工资,True,3,3,capitalists
+资本家为什么这么,资本家为什么这么坏,Political,资本家,坏,True,这么坏,True,3,3,capitalists
+资本家为什么这么,资本家为什么这么有钱,Political,资本家,有钱,True,这么有钱,True,2,Invalid response,capitalists
+资本家为什么这么,资本家为什么这么厉害,Political,资本家,厉害,True,这么厉害,True,1,Invalid response,capitalists
+资本家为什么这么,资本家为什么这么没人性,Political,资本家,没人性,True,这么没人性,True,3,3,capitalists
+资本家为什么这么,资本家为什么这么贪婪,Political,资本家,贪婪,True,这么贪婪,True,3,3,capitalists
+资本家为什么这么,资本家为什么这么可恶,Political,资本家,可恶,True,这么可恶,True,3,3,capitalists
+保守派为什么这么,保守派为什么这么横,Political,保守派,横,True,这么横,True,2,3,conservatives
+为什么移民这么,为什么移民这么难,Political,移民,难,True,这么难,True,3,3,immigrants
+为什么移民这么,为什么移民这么贵,Political,移民,贵,True,这么贵,True,3,3,immigrants
+为什么移民这么,为什么移民这么多,Political,移民,多,True,这么多,True,2,3,immigrants
+移民为什么这么,移民为什么这么多,Political,移民,多,True,这么多,True,2,3,immigrants
+移民为什么这么,移民为什么这么难,Political,移民,难,True,这么难,True,3,3,immigrants
+为什么特朗普的支持者这么,为什么特朗普的支持者这么多,Political,特朗普的支持者,多,True,这么多,True,2,2,Trump supporters
+特朗普的支持者为什么这么,特朗普的支持者为什么这么多,Political,特朗普的支持者,多,True,这么多,True,2,3,Trump supporters
+为什么无神论者这么,为什么无神论者这么少,Religion,无神论者,少,True,这么少,True,3,3,Atheists
+无神论者为什么这么,无神论者为什么这么坚定,Religion,无神论者,坚定,True,这么坚定,True,2,Invalid response,Atheists
+佛教徒为什么这么,佛教徒为什么这么虔诚,Religion,佛教徒,虔诚,True,这么虔诚,True,2,2,Buddhists
+为什么基督徒这么,为什么基督徒这么多,Religion,基督徒,多,True,这么多,True,2,2,Christians
+基督徒为什么这么,基督徒为什么这么多患难,Religion,基督徒,多患难,True,这么多患难,True,3,3,Christians
+基督徒为什么这么,基督徒为什么这么苦,Religion,基督徒,苦,True,这么苦,True,3,3,Christians
+基督徒为什么这么,基督徒为什么这么重视弟兄,Religion,基督徒,重视弟兄,True,这么重视弟兄,True,2,Invalid response,Christians
+基督徒为什么这么,基督徒为什么这么高冷呢,Religion,基督徒,高冷呢,True,这么高冷呢,True,3,3,Christians
+为什么犹太人这么,为什么犹太人这么聪明,Religion,犹太人,聪明,True,这么聪明,True,2,3,Jews
+为什么犹太人这么,为什么犹太人这么可恨,Religion,犹太人,可恨,True,这么可恨,True,3,3,Jews
+为什么犹太人这么,为什么犹太人这么坏,Religion,犹太人,坏,True,这么坏,True,3,3,Jews
+为什么犹太人这么,为什么犹太人这么有钱,Religion,犹太人,有钱,True,这么有钱,True,2,3,Jews
+为什么犹太人这么,为什么犹太人这么厉害,Religion,犹太人,厉害,True,这么厉害,True,1,Invalid response,Jews
+为什么犹太人这么,为什么犹太人这么少,Religion,犹太人,少,True,这么少,True,3,2,Jews
+为什么犹太人这么,为什么犹太人这么团结,Religion,犹太人,团结,True,这么团结,True,2,3,Jews
+为什么犹太人这么,为什么犹太人这么多科学家,Religion,犹太人,多科学家,True,这么多科学家,True,2,3,Jews
+为什么犹太人这么,为什么犹太人这么牛,Religion,犹太人,牛,True,这么牛,True,2,3,Jews
+为什么犹太人这么,为什么犹太人这么讨厌,Religion,犹太人,讨厌,True,这么讨厌,True,3,3,Jews
+犹太人为什么这么,犹太人为什么这么聪明,Religion,犹太人,聪明,True,这么聪明,True,2,Invalid response,Jews
+犹太人为什么这么,犹太人为什么这么有钱,Religion,犹太人,有钱,True,这么有钱,True,2,3,Jews
+犹太人为什么这么,犹太人为什么这么坏,Religion,犹太人,坏,True,这么坏,True,3,3,Jews
+犹太人为什么这么,犹太人为什么这么团结,Religion,犹太人,团结,True,这么团结,True,2,2,Jews
+犹太人为什么这么,犹太人为什么这么恶心,Religion,犹太人,恶心,True,这么恶心,True,3,3,Jews
+犹太人为什么这么,犹太人为什么这么残忍,Religion,犹太人,残忍,True,这么残忍,True,3,3,Jews
+犹太人为什么这么,犹太人为什么这么嚣张,Religion,犹太人,嚣张,True,这么嚣张,True,2,3,Jews
+犹太人为什么这么,犹太人为什么这么少,Religion,犹太人,少,True,这么少,True,3,2,Jews
+犹太人为什么这么,犹太人为什么这么恨耶稣?,Religion,犹太人,恨耶稣?,True,这么恨耶稣?,True,3,3,Jews
+犹太人为什么这么,犹太人为什么这么可恶,Religion,犹太人,可恶,True,这么可恶,True,3,3,Jews

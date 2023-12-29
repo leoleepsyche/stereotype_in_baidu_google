@@ -1,0 +1,407 @@
+query,suggestion,category,group,completion,suggestion_follows_query,extracted_suggestion,sentiment_rating_completion
+why are boomers so,why are boomers so annoying,Age,boomers,annoying,True,so annoying,3
+why are boomers so,why are boomers so mean,Age,boomers,mean,True,so mean,3
+why are boomers so,why are boomers so dumb,Age,boomers,dumb,True,so dumb,3
+why are boomers so,why are boomers so conservative,Age,boomers,conservative,True,so conservative,2
+why are boomers so,why are boomers so entitled,Age,boomers,entitled,True,so entitled,3
+why are boomers so,why are boomers so angry,Age,boomers,angry,True,so angry,3
+why are boomers so,why are boomers so toxic,Age,boomers,toxic,True,so toxic,3
+why are children so,why are children so attached to their parents,Age,children,attached to their parents,True,so attached to their parents,2
+why are children so,why are children so impressionable,Age,children,impressionable,True,so impressionable,2
+why are children so,why are children so vulnerable,Age,children,vulnerable,True,so vulnerable,3
+why are children so,why are children so expensive,Age,children,expensive,True,so expensive,3
+why are children so,why are children so annoying,Age,children,annoying,True,so annoying,3
+why are children so,why are children so sick today,Age,children,sick today,True,so sick today,3
+why are children so,why are children so important,Age,children,important,True,so important,2
+why are children so,why are children so cruel,Age,children,cruel,True,so cruel,3
+why are children so,why are children so happy,Age,children,happy,True,so happy,1
+why are children so,why are children so entitled these days,Age,children,entitled these days,True,so entitled these days,3
+why are kids so,why are kids so mean,Age,kids,mean,True,so mean,3
+why are kids so,why are kids so annoying,Age,kids,annoying,True,so annoying,3
+why are kids so,why are kids so disrespectful,Age,kids,disrespectful,True,so disrespectful,3
+why are kids so,why are kids so loud,Age,kids,loud,True,so loud,2
+why are kids so,why are kids so stupid,Age,kids,stupid,True,so stupid,3
+why are kids so,why are kids so sensitive these days,Age,kids,sensitive these days,True,so sensitive these days,2
+why are kids so,why are kids so dumb today,Age,kids,dumb today,True,so dumb today,3
+why are kids so,why are kids so addicted to their phones,Age,kids,addicted to their phones,True,so addicted to their phones,3
+why are kids so,why are kids so exhausting,Age,kids,exhausting,True,so exhausting,3
+why are kids so,why are kids so hard on themselves,Age,kids,hard on themselves,True,so hard on themselves,3
+why are millennials so,why are millennials so sensitive,Age,millennials,sensitive,True,so sensitive,3
+why are millennials so,why are millennials so google feud answers,Age,millennials,google feud answers,True,so google feud answers,2
+why are millennials so,why are millennials so annoying,Age,millennials,annoying,True,so annoying,3
+why are millennials so,why are millennials so angry,Age,millennials,angry,True,so angry,3
+why are millennials so,why are millennials so liberal,Age,millennials,liberal,True,so liberal,2
+why are millennials so,why are millennials so entitled,Age,millennials,entitled,True,so entitled,3
+why are millennials so,why are millennials so stressed out,Age,millennials,stressed out,True,so stressed out,3
+why are millennials so,why are millennials socialists,Age,millennials,cialists,True,socialists,2
+why are millennials so,why are millennials so depressed,Age,millennials,depressed,True,so depressed,3
+why are millennials so,why are millennials so anxious,Age,millennials,anxious,True,so anxious,3
+why are old people so,why are old people so negative,Age,old people,negative,True,so negative,3
+why are old people so,why are old people so angry,Age,old people,angry,True,so angry,3
+why are old people so,why are old people so religious,Age,old people,religious,True,so religious,2
+why are old people so,why are old people so tired,Age,old people,tired,True,so tired,3
+why are old people so,why are old people so patriotic,Age,old people,patriotic,True,so patriotic,2
+why are old people so,why are old people so nervous,Age,old people,nervous,True,so nervous,3
+why are old people so,why are old people so happy,Age,old people,happy,True,so happy,1
+why are old people so,why are old people so cold,Age,old people,cold,True,so cold,3
+why are old people so,why are old people so negative reddit,Age,old people,negative reddit,True,so negative reddit,3
+why are old women so,why are old women so bitter,Age,old women,bitter,True,so bitter,3
+why are teenagers so,why are teenagers so difficult,Age,teenagers,difficult,True,so difficult,3
+why are teenagers so,why are teenagers so depressed,Age,teenagers,depressed,True,so depressed,3
+why are teenagers so,why are teenagers so tired all the time,Age,teenagers,tired all the time,True,so tired all the time,3
+why are teenagers so,why are teenagers so angry,Age,teenagers,angry,True,so angry,3
+why are teenagers so,why are teenagers so stressed,Age,teenagers,stressed,True,so stressed,3
+why are teenagers so,why are teenagers so forgetful,Age,teenagers,forgetful,True,so forgetful,3
+why are teenagers so,why are teenagers so hormonal,Age,teenagers,hormonal,True,so hormonal,3
+why are teenagers so,why are teenagers so impulsive,Age,teenagers,impulsive,True,so impulsive,2
+why are teenagers so,why are teenagers so emotional,Age,teenagers,emotional,True,so emotional,2
+why are teenagers so,why are teenagers so unhappy,Age,teenagers,unhappy,True,so unhappy,3
+why are girls so,why are girls so confusing,Gender,girls,confusing,True,so confusing,3
+why are girls so,why are girls so emotional,Gender,girls,emotional,True,so emotional,2
+why are girls so,why are girls so complicated,Gender,girls,complicated,True,so complicated,3
+why are girls so,why are girls so dramatic,Gender,girls,dramatic,True,so dramatic,2
+why are girls so,why are girls so sensitive,Gender,girls,sensitive,True,so sensitive,2
+why are girls so,why are girls so mean to each other,Gender,girls,mean to each other,True,so mean to each other,3
+why are girls so,why are girls so difficult,Gender,girls,difficult,True,so difficult,3
+why are girls so,why are girls so obsessed with teddy bears,Gender,girls,obsessed with teddy bears,True,so obsessed with teddy bears,1
+why are girls so,why are girls so bad at video games,Gender,girls,bad at video games,True,so bad at video games,3
+why are girls so,why are girls so short,Gender,girls,short,True,so short,2
+why are women so,why are women so emotional,Gender,women,emotional,True,so emotional,2
+why are women so,why are women so difficult,Gender,women,difficult,True,so difficult,3
+why are women so,why are women so jealous of other women,Gender,women,jealous of other women,True,so jealous of other women,3
+why are women so,why are women so picky about men,Gender,women,picky about men,True,so picky about men,3
+why are women so,why are women so unhappy,Gender,women,unhappy,True,so unhappy,3
+why are women so,why are women so angry,Gender,women,angry,True,so angry,3
+why are women so,why are women so mean to each other,Gender,women,mean to each other,True,so mean to each other,3
+why are men so,why are men so lonely,Gender,men,lonely,True,so lonely,3
+why are men so,why are men so insensitive,Gender,men,insensitive,True,so insensitive,3
+why are men so,why are men so angry,Gender,men,angry,True,so angry,3
+why are men so,why are men so complicated,Gender,men,complicated,True,so complicated,3
+why are men so,why are men so sensitive,Gender,men,sensitive,True,so sensitive,2
+why are men so,why are men so needy,Gender,men,needy,True,so needy,3
+why are men so,why are men so confusing,Gender,men,confusing,True,so confusing,3
+why are females so,why are females so hard on themselves,Gender,females,hard on themselves,True,so hard on themselves,3
+why are females so,why are females so emotional,Gender,females,emotional,True,so emotional,3
+why are females so,why are females so difficult,Gender,females,difficult,True,so difficult,3
+why are males so,why are males so angry,Gender,males,angry,True,so angry,3
+why are boys so,why are boys so mean to girls,Gender,boys,mean to girls,True,so mean to girls,3
+why are boys so,why are boys so confusing,Gender,boys,confusing,True,so confusing,3
+why are boys so,why are boys so complicated,Gender,boys,complicated,True,so complicated,3
+why are boys so,why are boys so annoying to girls,Gender,boys,annoying to girls,True,so annoying to girls,3
+why are boys so,why are boys so emotional,Gender,boys,emotional,True,so emotional,2
+why are boys so,why are boys so tall,Gender,boys,tall,True,so tall,2
+why are boys so,why are boys so competitive,Gender,boys,competitive,True,so competitive,2
+why are boys so,why are boys so destructive,Gender,boys,destructive,True,so destructive,3
+why are boys so,why are boys so loud,Gender,boys,loud,True,so loud,2
+why are boys so,why are boys so sensitive,Gender,boys,sensitive,True,so sensitive,3
+why are boyfriends so,why are boyfriends so protective,Gender,boyfriends,protective,True,so protective,2
+why are girlfriends so,why are girlfriends so difficult,Gender,girlfriends,difficult,True,so difficult,3
+why are girlfriends so,why are girlfriends so forgetful,Gender,girlfriends,forgetful,True,so forgetful,3
+why are girlfriends so,why are girlfriends so expensive,Gender,girlfriends,expensive,True,so expensive,3
+why are ladies so,why are ladies socks,Gender,ladies,cks,True,socks,2
+why are ladies so,why are ladies soccer,Gender,ladies,ccer,True,soccer,2
+why are ladies so,why are ladies softball,Gender,ladies,ftball,True,softball,2
+why are ladies so,why are ladies solar,Gender,ladies,lar,True,solar,2
+why are ladies so,why are ladies sox,Gender,ladies,x,True,sox,2
+why are ladies so,why are ladies social club,Gender,ladies,cial club,True,social club,2
+why are ladies so,why are ladies sorel,Gender,ladies,rel,True,sorel,2
+why are ladies so,why are ladies society,Gender,ladies,ciety,True,society,2
+why are ladies so,why are ladies solid,Gender,ladies,lid,True,solid,2
+why are ladies so,why are ladies soft,Gender,ladies,ft,True,soft,2
+why are gentlemen so,why are gentlemen society,Gender,gentlemen,ciety,True,society,2
+why are gentlemen so,why are gentlemen songsters,Gender,gentlemen,ngsters,True,songsters,2
+why are gentlemen so,why are gentlemen soundtrack,Gender,gentlemen,undtrack,True,soundtrack,2
+why are gentlemen so,why are gentlemen soiree,Gender,gentlemen,iree,True,soiree,2
+why are gentlemen so,why are gentlemen soldiers,Gender,gentlemen,ldiers,True,soldiers,2
+why are gentlemen so,why are gentlemen sophisticated,Gender,gentlemen,phisticated,True,sophisticated,2
+why are gentlemen so,why are gentlemen south,Gender,gentlemen,uth,True,south,2
+why are gentlemen so,why are gentlemen socks,Gender,gentlemen,cks,True,socks,2
+why are brothers so,why are brothers so annoying,Gender,brothers,annoying,True,so annoying,3
+why are brothers so,why are brothers so mean,Gender,brothers,mean,True,so mean,3
+why are brothers so,why are brothers so weird,Gender,brothers,weird,True,so weird,2
+why are brothers so,why are brothers so protective,Gender,brothers,protective,True,so protective,2
+why are brothers so,why are brothers so confusing,Gender,brothers,confusing,True,so confusing,3
+why are brothers so,why are brothers so annoying and mean,Gender,brothers,annoying and mean,True,so annoying and mean,3
+why are brothers so,why are brothers so mean to sisters,Gender,brothers,mean to sisters,True,so mean to sisters,3
+why are sisters so,why are sisters so difficult,Gender,sisters,difficult,True,so difficult,3
+why are sisters so,why are sisters so mean to brothers,Gender,sisters,mean to brothers,True,so mean to brothers,3
+why are sisters so,why are sisters so mean to each other,Gender,sisters,mean to each other,True,so mean to each other,3
+why are mothers so,why are mothers so important,Gender,mothers,important,True,so important,2
+why are mothers so,why are mothers so rude to their kids,Gender,mothers,rude to their kids,True,so rude to their kids,3
+why are mothers so,why are mothers so hard on daughters,Gender,mothers,hard on daughters,True,so hard on daughters,3
+why are mothers so,why are mothers so strict,Gender,mothers,strict,True,so strict,3
+why are mothers so,why are mothers so protective,Gender,mothers,protective,True,so protective,2
+why are mothers so,why are mothers so giving,Gender,mothers,giving,True,so giving,2
+why are mothers so,why are mothers so protective of their kids,Gender,mothers,protective of their kids,True,so protective of their kids,2
+why are fathers so,why are fathers so important,Gender,fathers,important,True,so important,2
+why are fathers so,why are fathers so annoying,Gender,fathers,annoying,True,so annoying,3
+why are grandmothers so,why are grandmothers sofa,Gender,grandmothers,fa,True,sofa,2
+why are grandmothers so,why are grandmothers soap,Gender,grandmothers,ap,True,soap,2
+why are husbands so,why are husbands so insensitive,Gender,husbands,insensitive,True,so insensitive,3
+why are husbands so,why are husbands so annoying,Gender,husbands,annoying,True,so annoying,3
+why are husbands so,why are husbands so angry,Gender,husbands,angry,True,so angry,3
+why are feminists so,why are feminists so angry all the time,Lifestyle,feminists,angry all the time,True,so angry all the time,3
+why are goths so,why are goths south,Lifestyle,goths,uth,True,south,2
+why are punks so,why are punks southern,Lifestyle,punks,uthern,True,southern,2
+why are punks so,why are punks soundtrack,Lifestyle,punks,undtrack,True,soundtrack,2
+why are punks so,why are punks songs,Lifestyle,punks,ngs,True,songs,2
+why are punks so,why are punks soul,Lifestyle,punks,ul,True,soul,2
+why are celebrities so,why are celebrities so annoying,Lifestyle,celebrities,annoying,True,so annoying,3
+why are celebrities so,why are celebrities so liberal,Lifestyle,celebrities,liberal,True,so liberal,2
+why are celebrities so,why are celebrities so influential,Lifestyle,celebrities,influential,True,so influential,2
+why are celebrities so,why are celebrities so short,Lifestyle,celebrities,short,True,so short,3
+why are celebrities so,why are celebrities so happy,Lifestyle,celebrities,happy,True,so happy,1
+why are homeless people so,why are homeless people so happy,Lifestyle,homeless people,happy,True,so happy,1
+why are poor people so,why are poor people so angry,Lifestyle,poor people,angry,True,so angry,3
+why are rich people so,why are rich people so mean,Lifestyle,rich people,mean,True,so mean,3
+why are rich people so,why are rich people so cheap,Lifestyle,rich people,cheap,True,so cheap,3
+why are rich people so,why are rich people so liberal,Lifestyle,rich people,liberal,True,so liberal,2
+why are rich people so,why are rich people so depressed,Lifestyle,rich people,depressed,True,so depressed,3
+why are rich people so,why are rich people so difficult,Lifestyle,rich people,difficult,True,so difficult,3
+why are rich people so,why are rich people so unhappy,Lifestyle,rich people,unhappy,True,so unhappy,3
+why are rich people so,why are rich people so stingy,Lifestyle,rich people,stingy,True,so stingy,3
+why are rich people so,why are rich people so miserable,Lifestyle,rich people,miserable,True,so miserable,3
+why are rich people so,why are rich people so entitled,Lifestyle,rich people,entitled,True,so entitled,3
+why are Americans so,why are americans so angry,Nationalities,Americans,why are americans so angry,True,so angry,3
+why are Americans so,why are americans so unhappy,Nationalities,Americans,why are americans so unhappy,True,so unhappy,3
+why are Americans so,why are americans so loud,Nationalities,Americans,why are americans so loud,True,so loud,3
+why are Americans so,why are americans so patriotic,Nationalities,Americans,why are americans so patriotic,True,so patriotic,2
+why are Americans so,why are americans so awful to one another,Nationalities,Americans,why are americans so awful to one another,True,so awful to one another,3
+why are Americans so,why are americans so awful to each other,Nationalities,Americans,why are americans so awful to each other,True,so awful to each other,3
+why are Americans so,why are americans so obsessed with guns,Nationalities,Americans,why are americans so obsessed with guns,True,so obsessed with guns,3
+why are Americans so,why are americans so bad at clash royale,Nationalities,Americans,why are americans so bad at clash royale,True,so bad at clash royale,3
+why are Americans so,why are americans so sensitive,Nationalities,Americans,why are americans so sensitive,True,so sensitive,2
+why are Arabs so,why are arabs so rich,Nationalities,Arabs,why are arabs so rich,True,so rich,2
+why are Arabs so,why are arabs so loud,Nationalities,Arabs,why are arabs so loud,True,so loud,2
+why are Arabs so,why are arabs so angry at jews,Nationalities,Arabs,why are arabs so angry at jews,True,so angry at jews,3
+why are British people so,why are british people so cold,Nationalities,British people,why are british people so cold,True,so cold,3
+why are British people so,why are british people so tall,Nationalities,British people,why are british people so tall,True,so tall,2
+why are British people so,why are british people so bad,Nationalities,British people,why are british people so bad,True,so bad,3
+why are British people so,why are british people so funny,Nationalities,British people,why are british people so funny,True,so funny,1
+why are Dutch people so,why are dutch people so tall,Nationalities,Dutch people,why are dutch people so tall,True,so tall,2
+why are Dutch people so,why are dutch people so blunt,Nationalities,Dutch people,why are dutch people so blunt,True,so blunt,2
+why are Egyptians so,why are egyptians so important,Nationalities,Egyptians,why are egyptians so important,True,so important,2
+why are French people so,why are french people so smart,Nationalities,French people,why are french people so smart,True,so smart,1
+why are Germans so,why are germans so cold,Nationalities,Germans,why are germans so cold,True,so cold,3
+why are Germans so,why are germans so tall,Nationalities,Germans,why are germans so tall,True,so tall,2
+why are Germans so,why are germans sometimes called krauts,Nationalities,Germans,why are germans sometimes called krauts,True,sometimes called krauts,3
+why are Germans so,why are germans so efficient,Nationalities,Germans,why are germans so efficient,True,so efficient,1
+why are Germans so,why are germans so toxic to humans,Nationalities,Germans,why are germans so toxic to humans,True,so toxic to humans,3
+why are Germans so,why are germans so big,Nationalities,Germans,why are germans so big,True,so big,2
+why are Ghanaians so,why are ghanaians songs,Nationalities,Ghanaians,why are ghanaians songs,True,songs,2
+why are Greeks so,why are greeks so loud,Nationalities,Greeks,why are greeks so loud,True,so loud,3
+why are Indians so,why are indians so successful in us,Nationalities,Indians,why are indians so successful in us,True,so successful in us,2
+why are Indians so,why are indians so disgusting,Nationalities,Indians,why are indians so disgusting,True,so disgusting,3
+why are Italians so,why are italians so racist against blacks,Nationalities,Italians,why are italians so racist against blacks,True,so racist against blacks,3
+why are Italians so,why are italians so healthy,Nationalities,Italians,why are italians so healthy,True,so healthy,1
+why are Italians so,why are italians so loud,Nationalities,Italians,why are italians so loud,True,so loud,2
+why are Koreans so,why are koreans so healthy,Nationalities,Koreans,why are koreans so healthy,True,so healthy,1
+why are Lebanese people so,why are lebanese people song,Nationalities,Lebanese people,why are lebanese people song,True,song,2
+why are Lebanese people so,why are lebanese people software,Nationalities,Lebanese people,why are lebanese people software,True,software,2
+why are Lebanese people so,why are lebanese people solutions,Nationalities,Lebanese people,why are lebanese people solutions,True,solutions,2
+why are Lebanese people so,why are lebanese people socks,Nationalities,Lebanese people,why are lebanese people socks,True,socks,2
+why are Lebanese people so,why are lebanese people source,Nationalities,Lebanese people,why are lebanese people source,True,source,2
+why are Lebanese people so,why are lebanese people so stupid,Nationalities,Lebanese people,why are lebanese people so stupid,True,so stupid,3
+why are Lebanese people so,why are lebanese people socializing,Nationalities,Lebanese people,why are lebanese people socializing,True,socializing,2
+why are Lebanese people so,why are lebanese people social distancing,Nationalities,Lebanese people,why are lebanese people social distancing,True,social distancing,2
+why are Moroccans so,why are moroccans soccer,Nationalities,Moroccans,why are moroccans soccer,True,soccer,2
+why are Nepalis so,why are nepalis south,Nationalities,Nepalis,why are nepalis south,True,south,2
+why are Polish people so,why are polish people so tall,Nationalities,Polish people,why are polish people so tall,True,so tall,2
+why are Russians so,why are russians so rich,Nationalities,Russians,why are russians so rich,True,so rich,2
+why are Scots so,why are scots soccer,Nationalities,Scots,why are scots soccer,True,soccer,2
+why are Scots so,why are scots song,Nationalities,Scots,why are scots song,True,song,2
+why are Scots so,why are scots software,Nationalities,Scots,why are scots software,True,software,2
+why are Scots so,why are scots sons,Nationalities,Scots,why are scots sons,True,sons,3
+why are Scots so,why are scots south,Nationalities,Scots,why are scots south,True,south,2
+why are Scots so,why are scots southern,Nationalities,Scots,why are scots southern,True,southern,2
+why are Scots so,why are scots sold,Nationalities,Scots,why are scots sold,True,sold,2
+why are Scots so,why are scots softball,Nationalities,Scots,why are scots softball,True,softball,2
+why are Scots so,why are scots soul,Nationalities,Scots,why are scots soul,True,soul,2
+why are Scots so,why are scots so ca,Nationalities,Scots,why are scots so ca,True,so ca,2
+why are Taiwanese people so,why are taiwanese people song,Nationalities,Taiwanese people,why are taiwanese people song,True,song,2
+why are Taiwanese people so,why are taiwanese people software,Nationalities,Taiwanese people,why are taiwanese people software,True,software,2
+why are Taiwanese people so,why are taiwanese people solutions,Nationalities,Taiwanese people,why are taiwanese people solutions,True,solutions,2
+why are Taiwanese people so,why are taiwanese people socks,Nationalities,Taiwanese people,why are taiwanese people socks,True,socks,2
+why are Taiwanese people so,why are taiwanese people source,Nationalities,Taiwanese people,why are taiwanese people source,True,source,2
+why are Taiwanese people so,why are taiwanese people so stupid,Nationalities,Taiwanese people,why are taiwanese people so stupid,True,so stupid,3
+why are Taiwanese people so,why are taiwanese people socializing,Nationalities,Taiwanese people,why are taiwanese people socializing,True,socializing,2
+why are Taiwanese people so,why are taiwanese people social distancing,Nationalities,Taiwanese people,why are taiwanese people social distancing,True,social distancing,2
+why are Turkish people so,why are turkish people so dramatic,Nationalities,Turkish people,why are turkish people so dramatic,True,so dramatic,3
+why are Vietnamese people so,why are vietnamese people so small,Nationalities,Vietnamese people,why are vietnamese people so small,True,so small,2
+why are Asians so,why are asians so successful in america,Peoples,Asians,why are asians so successful in america,True,so successful in america,1
+why are Asians so,why are asians so smart quora,Peoples,Asians,why are asians so smart quora,True,so smart quora,2
+why are Asian kids so,why are asian kids so smart meme,Peoples,Asian kids,why are asian kids so smart meme,True,so smart meme,2
+why are Asian kids so,why are asian kids so smart,Peoples,Asian kids,why are asian kids so smart,True,so smart,1
+why are Asian parents so,why are asian parents so hard on their children,Peoples,Asian parents,why are asian parents so hard on their children,True,so hard on their children,3
+why are Asian parents so,why are asian parents so strict on grades,Peoples,Asian parents,why are asian parents so strict on grades,True,so strict on grades,3
+why are Asian women so,why are asian women so popular,Peoples,Asian women,why are asian women so popular,True,so popular,2
+why are Asian women so,why are asian women so loud,Peoples,Asian women,why are asian women so loud,True,so loud,3
+why are Asian women so,why are asian women so attractive to white men,Peoples,Asian women,why are asian women so attractive to white men,True,so attractive to white men,3
+why are African Americans so,why are african americans so loud,Peoples,African Americans,why are african americans so loud,True,so loud,3
+why are African Americans so,why are african americans so sensitive about everything,Peoples,African Americans,why are african americans so sensitive about everything,True,so sensitive about everything,3
+why are African Americans so,why are african americans so good at sports,Peoples,African Americans,why are african americans so good at sports,True,so good at sports,1
+why are African Americans so,why are african americans so emotional,Peoples,African Americans,why are african americans so emotional,True,so emotional,2
+why are African Americans so,why are african americans so tall,Peoples,African Americans,why are african americans so tall,True,so tall,2
+why are African Americans so,why are african americans so religious,Peoples,African Americans,why are african americans so religious,True,so religious,2
+why are African Americans so,why are african americans so violent now,Peoples,African Americans,why are african americans so violent now,True,so violent now,3
+why are Black Americans so,why are black americans so violent,Peoples,Black Americans,why are black americans so violent,True,so violent,3
+why are Black Americans so,why are black americans so much bigger than africans today,Peoples,Black Americans,why are black americans so much bigger than africans today,True,so much bigger than africans today,3
+why are Black Americans so,why are black americans so racist,Peoples,Black Americans,why are black americans so racist,True,so racist,3
+why are Black fathers so,why are black fathers songs,Peoples,Black fathers,why are black fathers songs,True,songs,2
+why are Black kids so,why are black kids so disrespectful in school,Peoples,Black kids,why are black kids so disrespectful in school,True,so disrespectful in school,3
+why are Black kids so,why are black kids so mean,Peoples,Black kids,why are black kids so mean,True,so mean,3
+why are Black kids so,why are black kids so good at basketball,Peoples,Black kids,why are black kids so good at basketball,True,so good at basketball,1
+why are Black kids so,why are black kids so violent,Peoples,Black kids,why are black kids so violent,True,so violent,3
+why are Black kids so,why are black kids so bad,Peoples,Black kids,why are black kids so bad,True,so bad,3
+why are Black kids so,why are black kids so stupid,Peoples,Black kids,why are black kids so stupid,True,so stupid,3
+why are Black kids so,why are black kids so disrespectful,Peoples,Black kids,why are black kids so disrespectful,True,so disrespectful,3
+why are Black men so,why are black men so violent,Peoples,Black men,why are black men so violent,True,so violent,3
+why are Black men so,why are black men so weak,Peoples,Black men,why are black men so weak,True,so weak,3
+why are Black men so,why are black men so passive,Peoples,Black men,why are black men so passive,True,so passive,3
+why are Black men so,why are black men so popular,Peoples,Black men,why are black men so popular,True,so popular,2
+why are Black men so,why are black men so attracted to white women,Peoples,Black men,why are black men so attracted to white women,True,so attracted to white women,2
+why are Black men so,why are black men so aggressive,Peoples,Black men,why are black men so aggressive,True,so aggressive,3
+why are Black men so,why are black men so angry,Peoples,Black men,why are black men so angry,True,so angry,3
+why are Black men so,why are black men so beautiful,Peoples,Black men,why are black men so beautiful,True,so beautiful,1
+why are Black men so,why are black men so hot,Peoples,Black men,why are black men so hot,True,so hot,2
+why are Black men so,why are black men so violent in america,Peoples,Black men,why are black men so violent in america,True,so violent in america,3
+why are Black parents so,why are black parents so mean,Peoples,Black parents,why are black parents so mean,True,so mean,3
+why are Black parents so,why are black parents so strict,Peoples,Black parents,why are black parents so strict,True,so strict,2
+why are Black parents so,why are black parents so bad,Peoples,Black parents,why are black parents so bad,True,so bad,3
+why are Black parents so,why are black parents so abusive,Peoples,Black parents,why are black parents so abusive,True,so abusive,3
+why are Black people so,why are black people so racist,Peoples,Black people,why are black people so racist,True,so racist,3
+why are Black people so,why are black people so athletic,Peoples,Black people,why are black people so athletic,True,so athletic,2
+why are Black people so,why are black people so hated,Peoples,Black people,why are black people so hated,True,so hated,3
+why are Black people so,why are black people so tall,Peoples,Black people,why are black people so tall,True,so tall,2
+why are Black people so,why are black people so fast,Peoples,Black people,why are black people so fast,True,so fast,2
+why are Black people so,why are black people so aggressive,Peoples,Black people,why are black people so aggressive,True,so aggressive,3
+why are Black people so,why are black people so poor,Peoples,Black people,why are black people so poor,True,so poor,3
+why are Black people so,why are black people so good at sports,Peoples,Black people,why are black people so good at sports,True,so good at sports,1
+why are Black people so,why are black people so angry,Peoples,Black people,why are black people so angry,True,so angry,3
+why are Black people so,why are black people so cool,Peoples,Black people,why are black people so cool,True,so cool,1
+why are Black women so,why are black women so loud,Peoples,Black women,why are black women so loud,True,so loud,3
+why are Black women so,why are black women so angry,Peoples,Black women,why are black women so angry,True,so angry,3
+why are Black women so,why are black women so difficult,Peoples,Black women,why are black women so difficult,True,so difficult,3
+why are Black women so,why are black women so big,Peoples,Black women,why are black women so big,True,so big,2
+why are Black women so,why are black women so undesirable,Peoples,Black women,why are black women so undesirable,True,so undesirable,3
+why are Black women so,why are black women so heavy,Peoples,Black women,why are black women so heavy,True,so heavy,3
+why are Black women so,why are black women so loud and ignorant,Peoples,Black women,why are black women so loud and ignorant,True,so loud and ignorant,3
+why are Black women so,why are black women so angry all the time,Peoples,Black women,why are black women so angry all the time,True,so angry all the time,3
+why are Black women so,why are black women so angry video,Peoples,Black women,why are black women so angry video,True,so angry video,3
+why are Black women so,why are black women so mean to black men,Peoples,Black women,why are black women so mean to black men,True,so mean to black men,3
+why are Europeans so,why are europeans so much healthier than americans,Peoples,Europeans,why are europeans so much healthier than americans,True,so much healthier than americans,3
+why are Europeans so,why are europeans so rich,Peoples,Europeans,why are europeans so rich,True,so rich,2
+why are Europeans so,why are europeans so liberal,Peoples,Europeans,why are europeans so liberal,True,so liberal,2
+why are Hispanics so,why are hispanics so loud,Peoples,Hispanics,why are hispanics so loud,True,so loud,2
+why are Latinas so,why are latinas so angry,Peoples,Latinas,why are latinas so angry,True,so angry,3
+why are Latin people so,why are latin people soda,Peoples,Latin people,why are latin people soda,True,soda,2
+why are Native Americans so,why are native americans so quiet,Peoples,Native Americans,why are native americans so quiet,True,so quiet,2
+why are White Americans so,why are white americans so racist,Peoples,White Americans,why are white americans so racist,True,so racist,3
+why are White Americans so,why are white americans so angry,Peoples,White Americans,why are white americans so angry,True,so angry,3
+why are White kids so,why are white kids soccer,Peoples,White kids,why are white kids soccer,True,soccer,2
+why are White kids so,why are white kids sofa,Peoples,White kids,why are white kids sofa,True,sofa,2
+why are White kids so,why are white kids socks,Peoples,White kids,why are white kids socks,True,socks,2
+why are White men so,why are white men so angry,Peoples,White men,why are white men so angry,True,so angry,3
+why are White men so,why are white men so violent,Peoples,White men,why are white men so violent,True,so violent,3
+why are White men so,why are white men so hated,Peoples,White men,why are white men so hated,True,so hated,3
+why are White men so,why are white men so attractive,Peoples,White men,why are white men so attractive,True,so attractive,1
+why are White men so,why are white men so tall,Peoples,White men,why are white men so tall,True,so tall,2
+why are White men so,why are white men so fragile,Peoples,White men,why are white men so fragile,True,so fragile,3
+why are White parents so,why are white parents song,Peoples,White parents,why are white parents song,True,song,2
+why are White people so,why are white people so racist,Peoples,White people,why are white people so racist,True,so racist,3
+why are White people so,why are white people so angry,Peoples,White people,why are white people so angry,True,so angry,3
+why are White people so,why are white people so tall,Peoples,White people,why are white people so tall,True,so tall,2
+why are White people so,why are white people so attractive,Peoples,White people,why are white people so attractive,True,so attractive,1
+why are White people so,why are white people so skinny,Peoples,White people,why are white people so skinny,True,so skinny,3
+why are White people so,why are white people so beautiful,Peoples,White people,why are white people so beautiful,True,so beautiful,1
+why are White people so,why are white people so entitled,Peoples,White people,why are white people so entitled,True,so entitled,3
+why are White people so,why are white people so rich,Peoples,White people,why are white people so rich,True,so rich,2
+why are White people so,why are white people so lucky,Peoples,White people,why are white people so lucky,True,so lucky,1
+why are White women so,why are white women so attracted to black men,Peoples,White women,why are white women so attracted to black men,True,so attracted to black men,1
+why are White women so,why are white women so beautiful,Peoples,White women,why are white women so beautiful,True,so beautiful,1
+why are White women so,why are white women so liberal,Peoples,White women,why are white women so liberal,True,so liberal,2
+why are White women so,why are white women so easy,Peoples,White women,why are white women so easy,True,so easy,1
+why are White women so,why are white women so angry,Peoples,White women,why are white women so angry,True,so angry,3
+why are White women so,why are white women so woke,Peoples,White women,why are white women so woke,True,so woke,2
+why are White women so,why are white women so thin,Peoples,White women,why are white women so thin,True,so thin,3
+why are redheads so,why are redheads soulless,Peoples,redheads,ulless,True,soulless,3
+why are redheads so,why are redheads so rare,Peoples,redheads,rare,True,so rare,2
+why are redheads so,why are redheads so popular,Peoples,redheads,popular,True,so popular,2
+why are redheads so,why are redheads so sensitive,Peoples,redheads,sensitive,True,so sensitive,2
+why are redheads so,why are redheads soules,Peoples,redheads,ules,True,soules,2
+why are capitalists so,why are capitalists society,Political,capitalists,ciety,True,society,2
+why are conservatives so,why are conservatives so hateful,Political,conservatives,hateful,True,so hateful,3
+why are conservatives so,why are conservatives so angry,Political,conservatives,angry,True,so angry,3
+why are conservatives so,why are conservatives so brainwashed,Political,conservatives,brainwashed,True,so brainwashed,3
+why are conservatives so,why are conservatives so paranoid,Political,conservatives,paranoid,True,so paranoid,3
+why are conservatives so,why are conservatives so afraid of change,Political,conservatives,afraid of change,True,so afraid of change,3
+why are conservatives so,why are conservatives so religious,Political,conservatives,religious,True,so religious,2
+why are conservatives so,why are conservatives so filled with hate,Political,conservatives,filled with hate,True,so filled with hate,3
+why are conservatives so,why are conservatives so prejudice,Political,conservatives,prejudice,True,so prejudice,3
+why are conservatives so,why are conservatives so insecure,Political,conservatives,insecure,True,so insecure,3
+why are conservatives so,why are conservatives so racist,Political,conservatives,racist,True,so racist,3
+why are liberals so,why are liberals so stupid,Political,liberals,stupid,True,so stupid,3
+why are liberals so,why are liberals so hateful,Political,liberals,hateful,True,so hateful,3
+why are liberals so,why are liberals so angry,Political,liberals,angry,True,so angry,3
+why are liberals so,why are liberals so intolerant,Political,liberals,intolerant,True,so intolerant,3
+why are liberals so,why are liberals so condescending,Political,liberals,condescending,True,so condescending,3
+why are liberals so,why are liberals so mean,Political,liberals,mean,True,so mean,3
+why are liberals so,why are liberals so full of hate,Political,liberals,full of hate,True,so full of hate,3
+why are liberals so,why are liberals so racist,Political,liberals,racist,True,so racist,3
+why are liberals so,why are liberals so rude,Political,liberals,rude,True,so rude,3
+why are liberals so,why are liberals so ignorant,Political,liberals,ignorant,True,so ignorant,3
+why are Trump supporters so,why are trump supporters so stupid,Political,Trump supporters,why are trump supporters so stupid,True,so stupid,3
+why are Trump supporters so,why are trump supporters so dumb,Political,Trump supporters,why are trump supporters so dumb,True,so dumb,3
+why are Trump supporters so,why are trump supporters so angry,Political,Trump supporters,why are trump supporters so angry,True,so angry,3
+why are Trump supporters so,why are trump supporters so ignorant,Political,Trump supporters,why are trump supporters so ignorant,True,so ignorant,3
+why are Trump supporters so,why are trump supporters so hateful,Political,Trump supporters,why are trump supporters so hateful,True,so hateful,3
+why are Trump supporters so,why are trump supporters so gullible,Political,Trump supporters,why are trump supporters so gullible,True,so gullible,3
+why are Trump supporters so,why are trump supporters so loyal,Political,Trump supporters,why are trump supporters so loyal,True,so loyal,2
+why are Trump supporters so,why are trump supporters so delusional,Political,Trump supporters,why are trump supporters so delusional,True,so delusional,3
+why are Trump supporters so,why are trump supporters so mean,Political,Trump supporters,why are trump supporters so mean,True,so mean,3
+why are Trump supporters so,why are trump supporters so racist,Political,Trump supporters,why are trump supporters so racist,True,so racist,3
+why are Catholics so,why are catholics so against abortion,Religion,Catholics,why are catholics so against abortion,True,so against abortion,3
+why are Catholics so,why are catholics so devoted to mary,Religion,Catholics,why are catholics so devoted to mary,True,so devoted to mary,1
+why are Catholics so,why are catholics so liberal,Religion,Catholics,why are catholics so liberal,True,so liberal,2
+why are Catholics so,why are catholics so strict,Religion,Catholics,why are catholics so strict,True,so strict,3
+why are Christians so,why are christians so foolish,Religion,Christians,why are christians so foolish,True,so foolish,3
+why are Christians so,why are christians so controlling,Religion,Christians,why are christians so controlling,True,so controlling,3
+why are Christians so,why are christians so divided,Religion,Christians,why are christians so divided,True,so divided,3
+why are Christians so,why are christians so easily offended,Religion,Christians,why are christians so easily offended,True,so easily offended,3
+why are Christians so,why are christians so against gays,Religion,Christians,why are christians so against gays,True,so against gays,3
+why are Christians so,why are christians so unhappy,Religion,Christians,why are christians so unhappy,True,so unhappy,3
+why are Christians so,why are christians so hated,Religion,Christians,why are christians so hated,True,so hated,3
+why are Christians so,why are christians so isolated,Religion,Christians,why are christians so isolated,True,so isolated,3
+why are Christians so,why are christians so republican,Religion,Christians,why are christians so republican,True,so republican,2
+why are Christians so,why are christians so afraid,Religion,Christians,why are christians so afraid,True,so afraid,3
+why are Jews so,why are jews so hated,Religion,Jews,why are jews so hated,True,so hated,3
+why are Jews so,why are jews so hated around the world,Religion,Jews,why are jews so hated around the world,True,so hated around the world,3
+why are Jews so,why are jews so successful,Religion,Jews,why are jews so successful,True,so successful,1
+why are Jews so,why are jews so persecuted,Religion,Jews,why are jews so persecuted,True,so persecuted,3
+why are Jews so,why are jews so disliked,Religion,Jews,why are jews so disliked,True,so disliked,3
+why are Jews so,why are jews so smart,Religion,Jews,why are jews so smart,True,so smart,1
+why are Jews so,why are jews so rich,Religion,Jews,why are jews so rich,True,so rich,2
+why are Jews so,why are jews so cheap,Religion,Jews,why are jews so cheap,True,so cheap,2
+why are Jews so,why are jews so liberal,Religion,Jews,why are jews so liberal,True,so liberal,2
+why are Jews so,why are jews so reviled,Religion,Jews,why are jews so reviled,True,so reviled,3
+why are Mormons so,why are mormons so rich,Religion,Mormons,why are mormons so rich,True,so rich,2
+why are Mormons so,why are mormons so interested in genealogy,Religion,Mormons,why are mormons so interested in genealogy,True,so interested in genealogy,2
+why are Mormons so,why are mormons so happy,Religion,Mormons,why are mormons so happy,True,so happy,1
+why are Mormons so,why are mormons so wealthy,Religion,Mormons,why are mormons so wealthy,True,so wealthy,2
+why are Mormons so,why are mormons so successful,Religion,Mormons,why are mormons so successful,True,so successful,1
+why are Mormons so,why are mormons so strict,Religion,Mormons,why are mormons so strict,True,so strict,3
+why are Mormons so,why are mormons so conservative,Religion,Mormons,why are mormons so conservative,True,so conservative,2
+why are Mormons so,why are mormons so into genealogy,Religion,Mormons,why are mormons so into genealogy,True,so into genealogy,2
+why are Mormons so,why are mormons soaking,Religion,Mormons,why are mormons soaking,True,soaking,2
+why are Muslims so,why are muslims so against jews,Religion,Muslims,why are muslims so against jews,True,so against jews,3
+why are Muslims so,why are muslims so conservative,Religion,Muslims,why are muslims so conservative,True,so conservative,2
+why are Muslims so,why are muslims so religious,Religion,Muslims,why are muslims so religious,True,so religious,2
+why are Muslims so,why are muslims so spoken word,Religion,Muslims,why are muslims so spoken word,True,so spoken word,2
+why are Muslims so,why are muslims so scared of dogs,Religion,Muslims,why are muslims so scared of dogs,True,so scared of dogs,3
+why are Muslims so,why are muslims so rich,Religion,Muslims,why are muslims so rich,True,so rich,2
+why are Muslims so,why are muslims so peaceful,Religion,Muslims,why are muslims so peaceful,True,so peaceful,1
+why are Muslims so,why are muslims so violent during ramadan,Religion,Muslims,why are muslims so violent during ramadan,True,so violent during ramadan,3
+why are Protestants so,why are protestants so divided,Religion,Protestants,why are protestants so divided,True,so divided,3
+why are religions so,why are religions so hard on women,Religion,religions,hard on women,True,so hard on women,3
+why are religions so,why are religions so violent,Religion,religions,violent,True,so violent,3
+why are religions so,why are religions so similar,Religion,religions,similar,True,so similar,2

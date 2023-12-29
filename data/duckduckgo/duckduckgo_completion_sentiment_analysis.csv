@@ -1,0 +1,183 @@
+query,suggestion,category,group,completion,suggestion_follows_query,extracted_suggestion,sentiment_rating_completion
+why are boomers so,why are boomers so entitled,Age,boomers,entitled,True,so entitled,3
+why are children so,why are children so annoying,Age,children,annoying,True,so annoying,3
+why are children so,why are children so cute,Age,children,cute,True,so cute,1
+why are children so,why are children so noisy,Age,children,noisy,True,so noisy,3
+why are children so,why are children so curious,Age,children,curious,True,so curious,2
+why are children so,why are children so expensive,Age,children,expensive,True,so expensive,3
+why are children so,why are children so resilient,Age,children,resilient,True,so resilient,2
+why are children so,why are children so mean,Age,children,mean,True,so mean,3
+why are children so,why are children so loud,Age,children,loud,True,so loud,3
+why are kids so,why are kids so annoying,Age,kids,annoying,True,so annoying,3
+why are kids so,why are kids so loud,Age,kids,loud,True,so loud,3
+why are kids so,why are kids so mean,Age,kids,mean,True,so mean,3
+why are kids so,why are kids so cute,Age,kids,cute,True,so cute,1
+why are kids so,why are kids so rude,Age,kids,rude,True,so rude,3
+why are kids so,why are kids so weird,Age,kids,weird,True,so weird,3
+why are kids so,why are kids so different today,Age,kids,different today,True,so different today,2
+why are kids so,why are kids so fat,Age,kids,fat,True,so fat,3
+why are millennials so,why are millennials so sensitive,Age,millennials,sensitive,True,so sensitive,2
+why are millennials so,why are millennials so nostalgic,Age,millennials,nostalgic,True,so nostalgic,2
+why are millennials so,why are millennials so google feud answers,Age,millennials,google feud answers,True,so google feud answers,2
+why are millennials so,why are millennials so difficult to manage,Age,millennials,difficult to manage,True,so difficult to manage,3
+why are millennials so,why are millennials so depressed,Age,millennials,depressed,True,so depressed,3
+why are millennials so,why are millennials so self absorbed,Age,millennials,self absorbed,True,so self absorbed,3
+why are millennials so,why are millennials so unhappy at work,Age,millennials,unhappy at work,True,so unhappy at work,3
+why are millennials so,why are millennials so unhappy,Age,millennials,unhappy,True,so unhappy,3
+why are old men so,why are old men so irritable,Age,old men,irritable,True,so irritable,3
+why are old men so,why are old men so strong,Age,old men,strong,True,so strong,2
+why are old people so,why are old people so entitled,Age,old people,entitled,True,so entitled,3
+why are old people so,why are old people so stubborn,Age,old people,stubborn,True,so stubborn,3
+why are old people so,why are old people so cute,Age,old people,cute,True,so cute,1
+why are old people so,why are old people so difficult,Age,old people,difficult,True,so difficult,3
+why are old people so,why are old people so nosey,Age,old people,nosey,True,so nosey,3
+why are old people so,why are old people so strong,Age,old people,strong,True,so strong,2
+why are old people so,why are old people so cranky,Age,old people,cranky,True,so cranky,3
+why are old people so,why are old people so cold,Age,old people,cold,True,so cold,3
+why are teenagers so,why are teenagers so angry,Age,teenagers,angry,True,so angry,3
+why are teenagers so,why are teenagers so skinny,Age,teenagers,skinny,True,so skinny,2
+why are teenagers so,why are teenagers so moody,Age,teenagers,moody,True,so moody,3
+why are teenagers so,why are teenagers so sad,Age,teenagers,sad,True,so sad,3
+why are teenagers so,why are teenagers so chaotic,Age,teenagers,chaotic,True,so chaotic,3
+why are teenagers so,why are teenagers so annoying,Age,teenagers,annoying,True,so annoying,3
+why are teenagers so,why are teenagers so tired,Age,teenagers,tired,True,so tired,3
+why are teenagers so,why are teenagers so sleepy,Age,teenagers,sleepy,True,so sleepy,2
+why are girls so,why are girls so cute,Gender,girls,cute,True,so cute,1
+why are girls so,why are girls so emotional,Gender,girls,emotional,True,so emotional,2
+why are girls so,why are girls so pretty,Gender,girls,pretty,True,so pretty,1
+why are girls so,why are girls so beautiful,Gender,girls,beautiful,True,so beautiful,1
+why are girls so,why are girls so adorable,Gender,girls,adorable,True,so adorable,1
+why are girls so,why are girls so tall,Gender,girls,tall,True,so tall,2
+why are girls so,why are girls so nice,Gender,girls,nice,True,so nice,1
+why are girls so,why are girls so happy,Gender,girls,happy,True,so happy,1
+why are men so,why are men so lonely,Gender,men,lonely,True,so lonely,3
+why are men so,why are men so sensitive,Gender,men,sensitive,True,so sensitive,2
+why are men so,why are men so emotional,Gender,men,emotional,True,so emotional,2
+why are men so,why are men so distant,Gender,men,distant,True,so distant,3
+why are men so,why are men so attractive,Gender,men,attractive,True,so attractive,1
+why are men so,why are men so visually stimulated,Gender,men,visually stimulated,True,so visually stimulated,2
+why are men so,why are men so cute,Gender,men,cute,True,so cute,1
+why are men so,why are men so desperate for relationships,Gender,men,desperate for relationships,True,so desperate for relationships,3
+why are females so,why are females so cute,Gender,females,cute,True,so cute,1
+why are females so,why are females so emotional during period,Gender,females,emotional during period,True,so emotional during period,2
+why are boys so,why are boys so cute,Gender,boys,cute,True,so cute,1
+why are boys so,why are boys so ugh,Gender,boys,ugh,True,so ugh,3
+why are boys so,why are boys so rude to me,Gender,boys,rude to me,True,so rude to me,3
+why are boys so,why are boys so overprotective,Gender,boys,overprotective,True,so overprotective,3
+why are boys so,why are boys so sus,Gender,boys,sus,True,so sus,3
+why are boys so,why are boys socks hard,Gender,boys,cks hard,True,socks hard,3
+why are boys so,why are boys socks stiff,Gender,boys,cks stiff,True,socks stiff,3
+why are boys so,why are boys socks crusty,Gender,boys,cks crusty,True,socks crusty,3
+why are boyfriends so,why are boyfriends so protective,Gender,boyfriends,protective,True,so protective,2
+why are brothers so,why are brothers so mean to sisters,Gender,brothers,mean to sisters,True,so mean to sisters,3
+why are brothers so,why are brothers so packed,Gender,brothers,packed,True,so packed,3
+why are brothers so,why are brothers so overprotective,Gender,brothers,overprotective,True,so overprotective,3
+why are brothers so,why are brothers so mean to their sisters,Gender,brothers,mean to their sisters,True,so mean to their sisters,3
+why are sisters so,why are sisters so bossy,Gender,sisters,bossy,True,so bossy,3
+why are sisters so,why are sisters so annoying,Gender,sisters,annoying,True,so annoying,3
+why are sisters so,why are sisters so mean,Gender,sisters,mean,True,so mean,3
+why are sisters so,why are sisters so mean to brothers,Gender,sisters,mean to brothers,True,so mean to brothers,3
+why are sisters so,why are sisters so close,Gender,sisters,close,True,so close,2
+why are sisters so,why are sisters so mean to each other,Gender,sisters,mean to each other,True,so mean to each other,3
+why are mothers so,why are mothers so angry,Gender,mothers,angry,True,so angry,3
+why are mothers so,why are mothers so strict,Gender,mothers,strict,True,so strict,3
+why are mothers so,why are mothers so important,Gender,mothers,important,True,so important,2
+why are mothers so,why are mothers so dramatic reddit,Gender,mothers,dramatic reddit,True,so dramatic reddit,2
+why are mothers so,why are mothers so special,Gender,mothers,special,True,so special,2
+why are mothers so,why are mothers so protective,Gender,mothers,protective,True,so protective,2
+why are mothers so,why are mothers so protective of their sons,Gender,mothers,protective of their sons,True,so protective of their sons,3
+why are fathers so,why are fathers so important,Gender,fathers,important,True,so important,2
+why are fathers so,why are fathers so overprotective,Gender,fathers,overprotective,True,so overprotective,3
+why are wives so,why are wives so bossy,Gender,wives,bossy,True,so bossy,3
+why are nerds so,why are nerds socially awkward,Lifestyle,nerds,cially awkward,True,socially awkward,3
+why are nerds so,why are nerds so good,Lifestyle,nerds,good,True,so good,1
+why are nerds so,why are nerds so successful,Lifestyle,nerds,successful,True,so successful,1
+why are celebrities so,why are celebrities so rich,Lifestyle,celebrities,rich,True,so rich,2
+why are celebrities so,why are celebrities so influential,Lifestyle,celebrities,influential,True,so influential,2
+why are celebrities so,why are celebrities so important,Lifestyle,celebrities,important,True,so important,2
+why are celebrities so,why are celebrities so political,Lifestyle,celebrities,political,True,so political,2
+why are rich people so,why are rich people so rich,Lifestyle,rich people,rich,True,so rich,2
+why are rich people so,why are rich people so depressed,Lifestyle,rich people,depressed,True,so depressed,3
+why are Americans so,why are americans so friendly,Nationalities,Americans,why are americans so friendly,True,so friendly,1
+why are Americans so,why are americans so patriotic,Nationalities,Americans,why are americans so patriotic,True,so patriotic,2
+why are Americans so,why are americans so tall,Nationalities,Americans,why are americans so tall,True,so tall,2
+why are Americans so,why are americans so hands on,Nationalities,Americans,why are americans so hands on,True,so hands on,2
+why are Americans so,why are americans so creative,Nationalities,Americans,why are americans so creative,True,so creative,1
+why are Americans so,why are americans so busy,Nationalities,Americans,why are americans so busy,True,so busy,3
+why are Americans so,why are americans so impatient,Nationalities,Americans,why are americans so impatient,True,so impatient,3
+why are Americans so,why are americans so tired,Nationalities,Americans,why are americans so tired,True,so tired,3
+why are Australians so,why are australians so tall,Nationalities,Australians,why are australians so tall,True,so tall,2
+why are Australians so,why are australians so,Nationalities,Australians,why are australians so,True,so,2
+why are Australians so,why are australians so friendly,Nationalities,Australians,why are australians so friendly,True,so friendly,1
+why are Australians so,why are australians so good at sport,Nationalities,Australians,why are australians so good at sport,True,so good at sport,1
+why are Australians so,why are australians so wealthy,Nationalities,Australians,why are australians so wealthy,True,so wealthy,2
+why are Australians so,why are australians so passionate for sports,Nationalities,Australians,why are australians so passionate for sports,True,so passionate for sports,1
+why are Australians so,why are australians so good at swimming,Nationalities,Australians,why are australians so good at swimming,True,so good at swimming,1
+why are Australians so,why are australians so passionate about sport,Nationalities,Australians,why are australians so passionate about sport,True,so passionate about sport,1
+why are Austrians so,why are austrians so happy,Nationalities,Austrians,why are austrians so happy,True,so happy,1
+why are British people so,why are british people so tall,Nationalities,British people,why are british people so tall,True,so tall,3
+why are British people so,why are british people so,Nationalities,British people,why are british people so,True,so,2
+why are British people so,why are british people so polite,Nationalities,British people,why are british people so polite,True,so polite,1
+why are Colombians so,why are colombians so happy,Nationalities,Colombians,why are colombians so happy,True,so happy,1
+why are Dutch people so,why are dutch people so tall,Nationalities,Dutch people,why are dutch people so tall,True,so tall,2
+why are Ethiopians so,why are ethiopians so beautiful,Nationalities,Ethiopians,why are ethiopians so beautiful,True,so beautiful,1
+why are Finns so,why are finns so nice,Nationalities,Finns,why are finns so nice,True,so nice,1
+why are Finns so,why are finns so friendly,Nationalities,Finns,why are finns so friendly,True,so friendly,1
+why are Finns so,why are finns so happy,Nationalities,Finns,why are finns so happy,True,so happy,1
+why are Finns so,why are finns so unfriendly,Nationalities,Finns,why are finns so unfriendly,True,so unfriendly,3
+why are Finns so,why are finns so cold,Nationalities,Finns,why are finns so cold,True,so cold,3
+why are Finns so,why are finns so reserved,Nationalities,Finns,why are finns so reserved,True,so reserved,2
+why are Finns so,why are finns so introverted,Nationalities,Finns,why are finns so introverted,True,so introverted,2
+why are Finns so,why are finns so quiet,Nationalities,Finns,why are finns so quiet,True,so quiet,2
+why are French people so,why are french people so beautiful,Nationalities,French people,why are french people so beautiful,True,so beautiful,1
+why are Germans so,why are germans so smart,Nationalities,Germans,why are germans so smart,True,so smart,1
+why are Germans so,why are germans so tall,Nationalities,Germans,why are germans so tall,True,so tall,2
+why are Germans so,why are germans so influential,Nationalities,Germans,why are germans so influential,True,so influential,2
+why are Greeks so,why are greeks so beautiful,Nationalities,Greeks,why are greeks so beautiful,True,so beautiful,1
+why are Greeks so,why are greeks so healthy,Nationalities,Greeks,why are greeks so healthy,True,so healthy,1
+why are Indonesians so,why are indonesians so short,Nationalities,Indonesians,why are indonesians so short,True,so short,2
+why are Iraqis so,why are iraqis so brave,Nationalities,Iraqis,why are iraqis so brave,True,so brave,1
+why are Irish people so,why are irish people so popular,Nationalities,Irish people,why are irish people so popular,True,so popular,2
+why are Irish people so,why are irish people so strong,Nationalities,Irish people,why are irish people so strong,True,so strong,2
+why are Irish people so,why are irish people so nice,Nationalities,Irish people,why are irish people so nice,True,so nice,1
+why are Italians so,why are italians so passionate,Nationalities,Italians,why are italians so passionate,True,so passionate,1
+why are Italians so,why are italians so proud,Nationalities,Italians,why are italians so proud,True,so proud,1
+why are Italians so,why are italians so beautiful,Nationalities,Italians,why are italians so beautiful,True,so beautiful,1
+why are Italians so,why are italians so affectionate,Nationalities,Italians,why are italians so affectionate,True,so affectionate,1
+why are Koreans so,why are koreans so tall,Nationalities,Koreans,why are koreans so tall,True,so tall,2
+why are Koreans so,why are koreans so,Nationalities,Koreans,why are koreans so,True,so,2
+why are Koreans so,why are koreans so healthy,Nationalities,Koreans,why are koreans so healthy,True,so healthy,1
+why are Koreans so,why are koreans so pretty,Nationalities,Koreans,why are koreans so pretty,True,so pretty,1
+why are Koreans so,why are koreans so religious,Nationalities,Koreans,why are koreans so religious,True,so religious,2
+why are Koreans so,why are koreans so cute,Nationalities,Koreans,why are koreans so cute,True,so cute,1
+why are Moroccans so,why are moroccans so beautiful,Nationalities,Moroccans,why are moroccans so beautiful,True,so beautiful,1
+why are Norwegians so,why are norwegians so tall,Nationalities,Norwegians,why are norwegians so tall,True,so tall,2
+why are Norwegians so,why are norwegians so happy,Nationalities,Norwegians,why are norwegians so happy,True,so happy,1
+why are Polish people so,why are polish people so strong,Nationalities,Polish people,why are polish people so strong,True,so strong,2
+why are Polish people so,why are polish people so pretty,Nationalities,Polish people,why are polish people so pretty,True,so pretty,1
+why are Polish people so,why are polish people so entitled,Nationalities,Polish people,why are polish people so entitled,True,so entitled,3
+why are Russians so,why are russians so good at chess,Nationalities,Russians,why are russians so good at chess,True,so good at chess,1
+why are Russians so,why are russians so tall,Nationalities,Russians,why are russians so tall,True,so tall,2
+why are Russians so,why are russians so,Nationalities,Russians,why are russians so,True,so,2
+why are Russians so,why are russians so good at ballet,Nationalities,Russians,why are russians so good at ballet,True,so good at ballet,1
+why are Somalis so,why are somalis so beautiful,Nationalities,Somalis,why are somalis so beautiful,True,somalis so beautiful,1
+why are Sudanese people so,why are sudanese people so tall,Nationalities,Sudanese people,why are sudanese people so tall,True,so tall,2
+why are Swedes so,why are swedes so cold,Nationalities,Swedes,why are swedes so cold,True,so cold,3
+why are Swedes so,why are swedes so happy,Nationalities,Swedes,why are swedes so happy,True,so happy,1
+why are Swedes so,why are swedes so healthy,Nationalities,Swedes,why are swedes so healthy,True,so healthy,1
+why are Swedes so,why are swedes so tall,Nationalities,Swedes,why are swedes so tall,True,so tall,2
+why are Swedes so,why are swedes so smart,Nationalities,Swedes,why are swedes so smart,True,so smart,1
+why are Swedes so,why are swedes so beautiful,Nationalities,Swedes,why are swedes so beautiful,True,so beautiful,1
+why are Swedes so,why are swedes so good at english,Nationalities,Swedes,why are swedes so good at english,True,so good at english,1
+why are Swedes so,why are swedes so depressed,Nationalities,Swedes,why are swedes so depressed,True,so depressed,3
+why are Venezuelans so,why are venezuelans so beautiful,Nationalities,Venezuelans,why are venezuelans so beautiful,True,so beautiful,1
+why are Europeans so,why are europeans so happy,Peoples,Europeans,why are europeans so happy,True,so happy,1
+why are redheads so,why are redheads so beautiful,Peoples,redheads,beautiful,True,so beautiful,1
+why are redheads so,why are redheads so rare,Peoples,redheads,rare,True,so rare,2
+why are redheads so,why are redheads so pretty,Peoples,redheads,pretty,True,so pretty,1
+why are blondes so,why are blondes so cute,Peoples,blondes,cute,True,so cute,1
+why are blondes so,why are blondes so smart,Peoples,blondes,smart,True,so smart,1
+why are blondes so,why are blondes so attractive,Peoples,blondes,attractive,True,so attractive,1
+why are immigrants so,why are immigrants so important to canada,Political,immigrants,important to canada,True,so important to canada,2
+why are religions so,why are religions so diverse,Religion,religions,diverse,True,so diverse,2
+why are religions so,why are religions so similar,Religion,religions,similar,True,so similar,2
