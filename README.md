@@ -2,6 +2,8 @@
 
 This repository contains an analysis focused on uncovering potential biases in search engine autocomplete suggestions, specifically comparing Baidu and Google. The analysis is divided into two distinct tasks, each addressing different aspects of search engine behavior and sentiment portrayal.
 
+For a detailed description of the data used in this analysis, see the [Data Description](data/data_description.md).
+
 ## Task 1: Comparative Analysis of Autocomplete Metrics
 
 In this task, the focus is on comparing Baidu Templates (Template 1 and Template 2) with Google across various categories. The analysis aims to uncover differences in how these search engines respond to user queries. The key metrics evaluated include:
