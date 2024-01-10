@@ -7,8 +7,6 @@ class SharedCounter:
         cls.shared_count += 1
         return cls.shared_count
 
-
-
 def analyze_sentiment(tweet_text):
     # Function to create a chat message
     def create_chat_message(content, role="user"):
@@ -51,3 +49,8 @@ def analyze_sentiment(tweet_text):
     # 使用例子
     print(SharedCounter.increment())  # 输出 1
     return result
+
+
+if __name__ == "__main__":
+    # TODO
+    return
