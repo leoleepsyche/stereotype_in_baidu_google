@@ -27,3 +27,7 @@
 - **extracted_suggestion**: Represents a modified version of the 'completion' where the word 'so' is added in front, but only for those suggestions that follow the initial query in Chinese. 
 - **sentiment_rating_completion**: A numerical sentiment rating for the completion part of the suggestion, in Chinese.
 - **sentiment_rating_full_suggestion**: A numerical sentiment rating for the full suggestion, in Chinese.
+--**template_match**: Baidu template match.  e.g. template 1, template
+
+# category_group_data.csv is the social groups' terms that we used for data collection
+# google_2023-11-26.csv && baidu_2023-11-27.csv is the autocompletion data that we used in our paper
