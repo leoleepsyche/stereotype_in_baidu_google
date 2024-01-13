@@ -2,7 +2,7 @@
 
 This repository contains an analysis focused on uncovering potential biases in search engine autocomplete suggestions, specifically comparing Baidu and Google. The analysis is divided into two distinct tasks, each addressing different aspects of search engine behavior and sentiment portrayal.
 
-For a detailed description of the data used in this analysis, see the [Data Description](data/data_description.md).
+For a detailed description of the data used in this analysis, see the [Data Description](data/README.md).
 
 ## Code Description
 
