@@ -1,6 +1,6 @@
 # A comparison of online search engine moderation in Google and Baidu
 
-This repository contains the code to reproduce the results of the analysis presented in our paper:
+This repository contains the code to reproduce the results of the analysis presented in our paper: <br>
 "A comparison of online search engine moderation in Google and Baidu" Geng Liu, Pietro Pinoli, Stefano Ceri, Francesco Pierri (2024).
 
 For a detailed description of the data used in this analysis, see the [Data Description](data/README.md).
