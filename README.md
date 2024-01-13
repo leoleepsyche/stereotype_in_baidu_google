@@ -4,23 +4,29 @@ This repository contains an analysis focused on uncovering potential biases in s
 
 For a detailed description of the data used in this analysis, see the [Data Description](data/data_description.md).
 
-## Task 1: Comparative Analysis of Autocomplete Metrics
+## Code Description
 
-In this task, the focus is on comparing Baidu Templates (Template 1 and Template 2) with Google across various categories. The analysis aims to uncover differences in how these search engines respond to user queries. The key metrics evaluated include:
+### 1. Data Collection
+- **Script**: _0_data_collection.py_
+- **Description**: Designed to fetch autocomplete suggestions from Google and Baidu search engines. This script generates a list of queries based on predefined templates and categories, retrieves autocomplete suggestions for these queries, and saves the results in CSV files.
+- **Usage**:
+  - Run the script to collect auto-completion data from Google and Baidu based on template queries.
 
-- **Unresponse Rate**: The frequency at which the search engines do not provide any autocomplete suggestion for a given query.
-- **Proportion of Suggestions Not Following Query**: This metric measures the extent to which the suggestions provided deviate from the initial user query.
-- **Proportion of Suggestions Not Containing Group**: Analyzes how often the suggestions fail to include a specific group or keyword present in the query.
+### 2. Data Preprocessing and Analysis
+- **Script**: _1_data_preprocess.ipynb_
+- **Description**: Preprocesses and analyzes autocomplete suggestions from Google and Baidu. It identifies unresponded queries, merges them with original data, performs sentiment analysis, and saves the results.
+- **Usage**:
+  - Execute the script to process autocomplete suggestions from Google and Baidu.
+  - Outputs processed and analyzed data in CSV files.
+- **Note**:
+  - This script includes API calls for Baidu translation and OpenAI for sentiment analysis. Ensure you use your own API keys.
 
-Each of these metrics is examined across different categories for Baidu Templates 1 and 2, as well as Google, enabling a direct comparison of their autocomplete behavior.
+### 3. Replication of Analysis
+- **Script**: _2_replication_analysis.ipynb_
+- **Description**: Provides a comprehensive analysis of autocomplete suggestions from Google and Baidu, including consistency of suggestions, unresponded queries, and sentiment analysis as detailed in our paper.
+- **Usage**:
+  - Run the script to replicate our analysis.
+- **Note**:
+  - Ensure the correct file paths are set according to your directory structure.
+  - The script handles data cleaning, processing, and visualization. Review and modify it as necessary to fit your specific data and analysis requirements.
 
-## Task 2: Sentiment Analysis in Autocomplete Suggestions
-
-The second part of the analysis takes a deeper dive into the sentiment aspect of autocomplete suggestions from Baidu and Google. This task involves:
-
-- **Statistical Tests**: Applying methods like Fisher's Exact Test and Z-tests to compare the sentiment distributions between the two search engines. This analysis helps in understanding if there is a significant difference in the portrayal of sentiments in autocomplete suggestions.
-- **Visualization**: Creating visual representations of sentiment distributions across various categories. This approach not only quantifies the sentiment biases but also makes them visually interpretable.
-
-This comprehensive analysis aims to shed light on how sentiments are portrayed in autocomplete suggestions and whether there are noticeable differences in the approaches of Baidu and Google.
-
----
