@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95c8a568-595d-44ab-b679-a4f055f2984d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0_data_collection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_data_preprocess.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_replication_analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/baidu_2023-11-27.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/google_2023-11-26.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_completion_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_collection_Western_search_engines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_collection_baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modified_suggestions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/modified_suggestions.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Preprocess_sentiment_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Sentiment_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/auto_completion_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replication_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentiment_analysis_chatgpt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/top_social_groups.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/top_social_groups.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unresponded_proportion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/unresponded_proportion.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a41ce6d105a234950ceca7a73cae491680ffd3ac" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "leoleepsyche"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="041f9bed-81bf-4014-ba06-aedaea57e0a2" />
+        <option name="url" value="git@github.com:leoleepsyche/stereotype_in_baidu_google.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2alzsMQE7X2pfrc3WecLZk4sQtY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gengliu/PycharmProjects/stereotype_in_baidu_google&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;file.status.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c8a568-595d-44ab-b679-a4f055f2984d" name="Changes" comment="" />
+      <created>1704908158996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704908158996</updated>
+      <workItem from="1704908160942" duration="4172000" />
+      <workItem from="1704963021301" duration="20720000" />
+      <workItem from="1704994070550" duration="577000" />
+      <workItem from="1705002772178" duration="4641000" />
+      <workItem from="1705010299365" duration="2737000" />
+      <workItem from="1705048289159" duration="1190000" />
+      <workItem from="1705053941881" duration="10607000" />
+      <workItem from="1705087089825" duration="505000" />
+      <workItem from="1705087646076" duration="13770000" />
+      <workItem from="1705133337818" duration="6130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0_data_collection.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0_data_collection.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
