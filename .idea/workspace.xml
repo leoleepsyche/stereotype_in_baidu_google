@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c8a568-595d-44ab-b679-a4f055f2984d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0_data_collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_data_preprocess.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_replication_analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/baidu_2023-11-27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/google_2023-11-26.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto_completion_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_collection_Western_search_engines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_collection_baidu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modified_suggestions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/modified_suggestions.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/Preprocess_sentiment_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/Sentiment_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/auto_completion_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/replication_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentiment_analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sentiment_analysis_chatgpt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/top_social_groups.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/top_social_groups.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unresponded_proportion.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/unresponded_proportion.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_replication_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_replication_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +105,7 @@
       <workItem from="1705053941881" duration="10607000" />
       <workItem from="1705087089825" duration="505000" />
       <workItem from="1705087646076" duration="13770000" />
-      <workItem from="1705133337818" duration="6130000" />
+      <workItem from="1705133337818" duration="8069000" />
     </task>
     <servers />
   </component>
