@@ -1,6 +1,6 @@
-# Bias in Search Engines
+# A comparison of online search engine moderation in Google and Baidu
 
-This repository contains an analysis focused on uncovering potential biases in search engine autocomplete suggestions, specifically comparing Baidu and Google. The analysis is divided into two distinct tasks, each addressing different aspects of search engine behavior and sentiment portrayal.
+This repository contains the code to reproduce the results of the analysis presented in "A comparison of online search engine moderation in Google and Baidu" Geng Liu, Pietro Pinoli, Stefano Ceri, Francesco Pierri.
 
 For a detailed description of the data used in this analysis, see the [Data Description](data/README.md).
 
